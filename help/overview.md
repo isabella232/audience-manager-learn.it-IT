@@ -28,17 +28,14 @@ Benvenuti nel sito Tutorials Audience Manager .  Utilizzando queste esercitazion
 
 * **[Panoramica di [!UICONTROL Profile Merge Rules] (video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   <br>
    *Scopri cosa [!UICONTROL Profile Merge Rules] sono, come funzionano e il loro valore per l&#39;esperto di marketing.*
 
 * **[[!UICONTROL Profile Merge Rule]Esempi e casi di utilizzo](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   <br>
    *In questo video troverete esempi di [!UICONTROL Profile Merge Rules] cosa intendono, oltre ai casi di utilizzo [!UICONTROL Profile Merge Rules] risolti.*
 
 * **[Crea e configura[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   <br>
    *Scoprite come impostare un [!DNL People-Based Destination] nell’interfaccia utente del Audience Manager*
 
 ## Prezzi del personale
