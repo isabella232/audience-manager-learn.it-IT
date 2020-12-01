@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Per ulteriori informazioni su questa funzione, consultare la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
