@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Mapping di segmenti a una destinazione basata su dispositivo
 
-Per inviare un segmento di pubblico a un DSP o a un altro partner, è necessario mappare il segmento a una destinazione in  Audience Manager. Questo video illustra i segmenti della mappatura a una destinazione basata su dispositivo, detta anche destinazione da _server a server_ .
+Per inviare un segmento di pubblico a un DSP o a un altro partner, è necessario mappare il segmento a una destinazione in  Audience Manager. Questo video illustra i segmenti di mappatura a una destinazione basata su dispositivo, detta anche destinazione _server-to-server_.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
