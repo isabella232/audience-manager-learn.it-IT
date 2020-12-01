@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# Salvataggio delle ricerche [!DNL Data Explorer] per convenienza in riutilizzo {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Salvataggio delle ricerche in [!DNL Data Explorer] per verificare la convenienza nel riutilizzo di {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-Questo video illustra come configurare una ricerca in [!DNL Data Explorer], eseguirla e salvarla per riutilizzarla in un secondo momento. potete anche inserire la ricerca salvata nel dashboard in modo che sia immediatamente disponibile quando entrate nell&#39; [!UICONTROL Signals] app.
+Questo video illustra come configurare una ricerca in [!DNL Data Explorer], eseguirla e salvarla per riutilizzarla in un secondo momento. è inoltre possibile inserire la ricerca salvata nel dashboard in modo che sia immediatamente disponibile quando si accede all&#39;app [!UICONTROL Signals].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Per ulteriori informazioni su [!DNL Data Explorer], consulta la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Per ulteriori informazioni su [!DNL Data Explorer], consultare la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
