@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Recuperare le credenziali API in  I/O Adobe
+# Recuperare le credenziali API in  Adobe I/O
 
 Invece di contattare  Consulente di Adobe o l&#39;Assistenza clienti per ottenere le credenziali per l&#39;utilizzo dell&#39;API REST, potete semplicemente andare a  Adobe.io in un browser e recuperare o registrare le vostre credenziali.
 
