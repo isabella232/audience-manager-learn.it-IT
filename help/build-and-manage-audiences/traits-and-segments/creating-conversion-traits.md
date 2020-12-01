@@ -18,14 +18,14 @@ ht-degree: 0%
 ---
 
 
-# Creazione della conversione [!UICONTROL Traits] in  Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Creazione della conversione [!UICONTROL Traits] nel Audience Manager  {#creating-conversion-traits-in-audience-manager}
 
-Alcuni dei vostri [!UICONTROL traits] sono basati sulle conversioni sul sito. In questo video, scoprite come designarli come tali e imparate un consiglio/gotcha molto importante.
+Alcuni dei [!UICONTROL traits] sono basati sulle conversioni sul sito. In questo video, scoprite come designarli come tali e imparate un consiglio/gotcha molto importante.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-Cosa stai cercando di far fare alla gente sul tuo sito? Qual è l&#39;evento di conversione? Naturalmente, ci sono molte risposte diverse a questa domanda, a seconda del tipo di sito/verticale e dei vostri obiettivi organizzativi. In ogni caso, è comune in AAM creare per i visitatori [!UICONTROL traits] che hanno soddisfatto tali criteri.
+Cosa stai cercando di far fare alla gente sul tuo sito? Qual è l&#39;evento di conversione? Naturalmente, ci sono molte risposte diverse a questa domanda, a seconda del tipo di sito/verticale e dei vostri obiettivi organizzativi. In ogni caso, è comune in AAM creare [!UICONTROL traits] per i visitatori che hanno soddisfatto tali criteri.
 
-In AAM, è disponibile un campo in cui potete contrassegnare [!UICONTROL trait] il vostro nome come [!UICONTROL conversion] , in particolare per l&#39;utilizzo in [!UICONTROL trait][!UICONTROL Audience Lab].
+In AAM è presente un campo in cui è possibile contrassegnare il [!UICONTROL trait] come [!UICONTROL conversion] [!UICONTROL trait], in particolare per l&#39;utilizzo in [!UICONTROL Audience Lab].
 
-Inoltre, quando si utilizzano gli eventi per creare [!UICONTROL traits], è necessario tenere presente un gotcha importante, in modo da non raccogliere più utenti di quanto si dovrebbe fare per l&#39; [!UICONTROL trait]evento. Guardate questo video per la grande rivelazione. :)
+Inoltre, quando si utilizzano gli eventi per creare [!UICONTROL traits], è necessario tenere presente un gotcha importante, in modo da non raccogliere più utenti di quanto si dovrebbe nel [!UICONTROL trait]. Guardate questo video per la grande rivelazione. :)
