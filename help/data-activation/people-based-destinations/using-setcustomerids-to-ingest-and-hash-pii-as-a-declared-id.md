@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo [!DNL setCustomerIDs()] di Ingest and Hash PII come ID dichiarato
+# Utilizzo di [!DNL setCustomerIDs()] per inserire e applicare hash PII come ID dichiarato
 
-Questo video spiega perché e come usare il `setCustomerIDs()` metodo del servizio ID Experience Cloud per acquisire e hash un indirizzo e-mail e usarlo come ID dichiarato. Ciò non solo collegherà l&#39;ID CRM e l&#39;indirizzo e-mail, ma li sincronizzerà anche con l&#39;UUID Adobe Audience Manager, ovvero l&#39;ID dispositivo anonimo. Questi indirizzi e-mail con hash possono quindi essere inviati a [!UICONTROL People-Based Destinations].
+Questo video spiega perché e come utilizzare il metodo `setCustomerIDs()` del servizio ID Experience Cloud per acquisire e hash un indirizzo e-mail e usarlo come ID dichiarato. Ciò non solo collegherà l&#39;ID CRM e l&#39;indirizzo e-mail, ma li sincronizzerà anche con l&#39;UUID Adobe Audience Manager, ovvero l&#39;ID dispositivo anonimo. Questi indirizzi e-mail con hash possono essere inviati a [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html).
+Per ulteriori informazioni, consultare la [documentazione](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html).
