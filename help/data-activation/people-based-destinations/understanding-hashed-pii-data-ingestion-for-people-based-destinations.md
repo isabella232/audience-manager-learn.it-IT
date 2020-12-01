@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sull&#39;inserimento di dati PII con hash per [!UICONTROL People-Based Destinations]
+# Informazioni sull&#39;inserimento dei dati PII con hash per [!UICONTROL People-Based Destinations]
 
-Questo video toccherà le cose da considerare quando si è pronti a ingerire PII in  Audience Manager per [!UICONTROL People-Based Destinations].
+In questo video verranno trattati gli aspetti da considerare quando si sarà pronti a inserire PII nel Audience Manager  per [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
