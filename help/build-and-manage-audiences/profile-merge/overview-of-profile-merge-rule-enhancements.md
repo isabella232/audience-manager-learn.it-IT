@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica dei [!UICONTROL Profile Merge Rule] miglioramenti
+# Panoramica dei miglioramenti di [!UICONTROL Profile Merge Rule]
 
 Questo video illustra i miglioramenti apportati a [!UICONTROL Profile Merge Rules], rilasciati a ottobre 2019.
 
