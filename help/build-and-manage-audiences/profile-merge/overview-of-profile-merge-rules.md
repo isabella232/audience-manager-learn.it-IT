@@ -17,8 +17,8 @@ ht-degree: 14%
 ---
 
 
-# Panoramica [!UICONTROL Profile Merge Rules]
+# Panoramica di [!UICONTROL Profile Merge Rules]
 
-Scopri cosa [!UICONTROL Profile Merge Rules] sono, come funzionano e il loro valore per l&#39;esperto di marketing.
+Scopri cosa sono [!UICONTROL Profile Merge Rules], come funzionano e il loro valore per l&#39;esperto di marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
