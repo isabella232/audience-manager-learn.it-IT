@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Suggerimenti per i clienti - Tecniche consigliate per caratteristiche e segmenti
 
-**Matt Vittorioso**, Senior Marketing Specialist di **[!DNL Ally Financial]**, offre suggerimenti sulla gestione di tratti e segmenti.
+**Matt Vittorioso**, Senior Marketing Specialist di  **[!DNL Ally Financial]**, offre suggerimenti sulla gestione di tratti e segmenti.
 
 Matt Vittorioso è uno specialista senior di marketing del team Digital Marketing di Ally Financial. È a capo del team di segmentazione digitale ed è responsabile di tutti i dati che entrano ed escono da Audience Manager. Matt collabora a stretto contatto con tutti i soggetti interessati interni e con i partner esterni per garantire che i segmenti corretti siano creati per tutte le campagne di Ally. I suggerimenti includono argomenti quali:
 
