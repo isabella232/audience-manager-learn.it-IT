@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Suggerimenti per i clienti - Ottenere il massimo dalle regole di unione dei profili
 
-**Varun Kalra**, Consulente Multi-Solution di **Accordant**, offre suggerimenti sulla scelta e l&#39;utilizzo delle regole di unione dei profili (PMR).
+**Varun Kalra**, Consulente Multi-Solution di  **Accordant**, offre suggerimenti sulla scelta e l&#39;utilizzo delle regole di unione dei profili (PMR).
 
 Varun Kalra è un consulente multi-soluzione che lavora in un partner di soluzioni di Adobe con sede a Sydney - Accordant. Varun lavora principalmente su progetti  Audience Manager,  Adobe Analytics e AEP che coinvolgono l&#39;individuazione dei dati, l&#39;implementazione, il supporto e l&#39;abilitazione. I suggerimenti includono argomenti quali:
 
