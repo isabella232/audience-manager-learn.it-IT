@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Configurazione [!UICONTROL Profile Merge Rules] per [!UICONTROL People-Based Destinations]
+# Configurazione di [!UICONTROL Profile Merge Rules] per [!UICONTROL People-Based Destinations]
 
 In questo video, scoprite come impostare un [!UICONTROL Profile Merge Rule] da utilizzare per [!UICONTROL People-Based Destinations], incluso quando utilizzare una nuova opzione cross-device.
 
