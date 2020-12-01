@@ -16,13 +16,13 @@ ht-degree: 5%
 # Audience Manager Tutorials {#tutorials}
 
 + [Panoramica](overview.md)
-+ Introduzione al Audience Manager  {#intro-to-audience-manager}
++ Introduzione  Audience Manager {#intro-to-audience-manager}
    + [Come un DMP può cambiare la tua attività](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager  - Panoramica di una DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
-   + [Casi di utilizzo Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
+   + [Casi di utilizzo Audience Manager ](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Concetti e termini di base](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Informazioni sul flusso di dati in  Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
-   + [Introduzione all&#39;identità nel Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
+   + [Introduzione all&#39;identità nel Audience Manager ](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Realizzazione dei valori {#value-realization}
       + [Misurazione del ROI in un caso di utilizzo di soppressione del cliente](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Configurazione e amministrazione {#setup-and-admin}
@@ -86,8 +86,8 @@ ht-degree: 5%
       + [Informazioni sui numeri nel grafico dei segmenti](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Suggerimenti per i clienti - Tecniche consigliate per caratteristiche e segmenti](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelli algoritmici {#algorithmic-models}
-      + [Informazioni [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configura e genera un rapporto su [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Informazioni  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configura e genera un rapporto su  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Creazione di un modello di aspetto simile a quello di una prima parte](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Esclusione di caratteristiche in modelli algoritmici (simili a quelli)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Aumenta ROAS utilizzando modelli algoritmici (simili a quelli)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -104,7 +104,7 @@ ht-degree: 5%
       + [Miglioramenti delle regole di unione dei profili - Richieste preliminari](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
       + [Miglioramenti delle regole di unione dei profili Impatto sulla segmentazione, l&#39;attivazione e il reporting](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
       + [Interpreta report identità pubblico](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
-      + [Informazioni sulle metriche cross-device nel Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
+      + [Informazioni sulle metriche cross-device nel Audience Manager ](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Suggerimenti per i clienti - Ottenere il massimo dalle regole di unione dei profili](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Attivazione dei dati {#data-activation}
    + Nozioni di base sulle destinazioni {#destinations-basics}
@@ -133,4 +133,4 @@ ht-degree: 5%
    + Integrazione con  Ad Cloud {#integrating-with-ad-cloud}
       + [Integrazione Adobe Advertising Cloud e Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [Recuperare le credenziali API in  I/O Adobe](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Recuperare le credenziali API in  Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
