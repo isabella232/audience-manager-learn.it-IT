@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo [!UICONTROL Recency] e [!UICONTROL Frequency] nei segmenti
+# Utilizzo di [!UICONTROL Recency] e [!UICONTROL Frequency] nei segmenti
 
-Utilizzate [!UICONTROL Recency] e [!UICONTROL Frequency] per fornire i parametri del segmento del numero di volte che un visitatore deve qualificarsi per una caratteristica entro un determinato periodo di tempo. Ideale per l’affinità dei contenuti e per i casi di utilizzo dei limiti di frequenza, così come per altri.
+Utilizzate [!UICONTROL Recency] e [!UICONTROL Frequency] per specificare i parametri del segmento per quante volte un visitatore deve qualificarsi per una caratteristica entro un determinato periodo di tempo. Ideale per l’affinità dei contenuti e per i casi di utilizzo dei limiti di frequenza, così come per altri.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
