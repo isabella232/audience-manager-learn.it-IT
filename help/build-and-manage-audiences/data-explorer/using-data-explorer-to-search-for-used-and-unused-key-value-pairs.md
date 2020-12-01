@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo [!DNL Data Explorer] per cercare coppie chiave/valore usate e non utilizzate in AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Utilizzo di [!DNL Data Explorer] per cercare coppie chiave/valore usate e non utilizzate in AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-Nel lavoro quotidiano in  Audience Manager, potrebbe essere necessario verificare rapidamente se è stata creata una [!UICONTROL trait] coppia chiave/valore specifica. Questo video mostra come scoprirlo [!DNL Data Explorer].
+Nel lavoro quotidiano in  Audience Manager, potrebbe essere necessario verificare rapidamente se è stata creata una [!UICONTROL trait] da una coppia chiave/valore specifica. In questo video viene illustrato come trovare informazioni con [!DNL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Per verificare se un [!UICONTROL signal] file è stato creato in un [!UICONTROL trait], non è più necessario scaricare un [!DNL BAAAM] file e anche il [!UICONTROL Unused Signals] rapporto. Ora puoi semplicemente cercare quella coppia chiave/valore in [!DNL Data Explorer], AKA l&#39; [!UICONTROL Signals] App, in AAM, e trovare le coppie chiave/valore che si trovano in [!UICONTROL traits] e quelle che non lo sono, tutte nello stesso elenco. Ottimo risparmio di tempo!
+Per verificare se è stato creato un [!UICONTROL signal] in un [!UICONTROL trait], non è più necessario scaricare un file [!DNL BAAAM] e il rapporto [!UICONTROL Unused Signals]. Ora puoi semplicemente cercare la coppia chiave/valore in [!DNL Data Explorer], AKA l&#39;app [!UICONTROL Signals], in AAM, e trovare le coppie chiave/valore che si trovano in [!UICONTROL traits] e quelle che non lo sono, tutte nello stesso elenco. Ottimo risparmio di tempo!
 
-Per ulteriori informazioni su [!DNL Data Explorer], consulta la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Per ulteriori informazioni su [!DNL Data Explorer], consultare la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
