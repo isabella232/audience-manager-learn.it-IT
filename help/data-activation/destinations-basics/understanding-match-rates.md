@@ -23,4 +23,4 @@ Questo video illustra le percentuali di corrispondenza in Adobe Audience Manager
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
+Per ulteriori informazioni, consultare la [documentazione](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
