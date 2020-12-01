@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Generazione di report
 
-[!DNL Audience Identity] I rapporti forniscono ai clienti la possibilità di segnalare la popolazione totale di una [!UICONTROL trait] o [!UICONTROL segment] per definizione di identità di persona/famiglia. Guardate questo video per vedere come si manifesta nei rapporti sul Audience Manager .
+[!DNL Audience Identity] I rapporti forniscono ai clienti la possibilità di segnalare la popolazione totale delle definizioni di identità di una persona  [!UICONTROL trait] o  [!UICONTROL segment] di una famiglia. Guardate questo video per vedere come si manifesta nei rapporti sul Audience Manager .
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
