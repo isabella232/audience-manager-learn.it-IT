@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Come identificare il sottodominio  Audience Manager {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Durante l&#39;implementazione di alcune funzioni  Experience Cloud, è necessario conoscere il Audience Manager  `Subdomain` (a volte denominato anche `client ID` o `Partner ID`). In questo video verranno mostrati due punti in cui è possibile ottenere queste informazioni nell’interfaccia utente del Audience Manager .
+Durante l&#39;implementazione di alcune funzionalità  Experience Cloud, è necessario conoscere il Audience Manager  `Subdomain` (anche noto come `client ID` o `Partner ID`). In questo video verranno mostrati due punti in cui è possibile ottenere queste informazioni nell’interfaccia utente del Audience Manager .
 
-## Dando via il finale... {#giving-away-the-ending}
+## La fine... {#giving-away-the-ending}
 
-Se preferite semplicemente entrare e trovarlo senza guardare questo breve video, potete trovare il vostro `Partner Subdomain` in due punti nell&#39;interfaccia:
+Se preferisci semplicemente entrarci e trovarlo senza guardare questo breve video, puoi trovare il tuo `Partner Subdomain` in due punti nell&#39;interfaccia:
 
-1. Se avete già creato un [!UICONTROL rule-based] oggetto [!UICONTROL trait], fate clic su **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] è accanto all’ [!UICONTROL trait] nell’elenco di [!UICONTROL traits] tale cartella e l’URL includerà il vostro sottodominio nell’URL.
-1. Se andate nell&#39;interfaccia **[!UICONTROL Tools]** > **[!UICONTROL Tags]** e fate clic **[!UICONTROL Get code]** per il contenitore, il sottodominio è verso la fine della linea Akamai
+1. Se avete già creato un [!UICONTROL rule-based] [!UICONTROL trait], fate clic su **[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] è accanto al sottodominio  [!UICONTROL trait] nell’elenco di  [!UICONTROL traits] tale cartella e l’URL includerà il sottodominio nell’URL.
+1. Se andate nell&#39;interfaccia **[!UICONTROL Tools]** > **[!UICONTROL Tags]** e fate clic su **[!UICONTROL Get code]** per il contenitore, il sottodominio è verso la fine della linea Akamai
 
 Se non riesci a trovarlo rapidamente con questi riferimenti rapidi, il video è un breve impegno. :)
 
