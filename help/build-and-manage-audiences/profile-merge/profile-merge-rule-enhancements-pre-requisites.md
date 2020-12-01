@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Miglioramenti - Richieste Preventive
 
-Panoramica di come preparare al meglio il rilascio dei [!UICONTROL Profile Merge Rule] miglioramenti.
+Panoramica di come preparare al meglio il rilascio di [!UICONTROL Profile Merge Rule] Miglioramenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
