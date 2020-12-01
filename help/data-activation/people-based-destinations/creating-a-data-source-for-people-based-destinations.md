@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un [!UICONTROL Data Source] modulo [!UICONTROL People-Based Destinations]
+# Creazione di un [!UICONTROL Data Source] per [!UICONTROL People-Based Destinations]
 
-Questo video illustra la creazione di un Audience Manager [!UICONTROL Data Source] in  per cui utilizzarlo [!UICONTROL People-Based Destinations].
+Questo video illustra la creazione di un [!UICONTROL Data Source] in  Audience Manager da utilizzare per [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
