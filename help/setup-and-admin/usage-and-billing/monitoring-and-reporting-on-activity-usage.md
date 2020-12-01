@@ -23,4 +23,4 @@ In questo video verrà illustrato come utilizzare il [!DNL Activity Usage Report
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Per ulteriori informazioni, consultare la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
