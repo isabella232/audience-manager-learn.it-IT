@@ -24,4 +24,4 @@ Comprendi le sfide principali con la personalizzazione tra canali e come Adobe A
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html).
+Per ulteriori informazioni, consultare la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html).
