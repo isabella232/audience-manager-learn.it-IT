@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Creazione e utilizzo di funzioni semplici [!UICONTROL Profile Merge Rules]
+# Creazione e utilizzo di [!UICONTROL Profile Merge Rules]
 
 Scopri le regole di unione dei profili e come assegnarle ai segmenti. Scopri il profilo predefinito &quot;Dispositivo corrente&quot; e quando può/deve essere utilizzato.
 
