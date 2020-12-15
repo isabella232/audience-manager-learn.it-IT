@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
+source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 6%
+source-wordcount: '743'
+ht-degree: 5%
 
 ---
 
@@ -70,6 +70,7 @@ ht-degree: 6%
       + [Creazione di caratteristiche integrate](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
       + [Creazione di caratteristiche di conversione](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
       + [Scelta di un&#39;origine dati durante la creazione di caratteristiche](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+      + [Configurazione della scadenza caratteristica con l&#39;impostazione Time to Live (TTL)](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
       + [Utilizzo della vista Codice per creare e modificare caratteristiche](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [Introduzione alla gestione di massa (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
       + [Nozioni di base sulla creazione di segmenti](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
