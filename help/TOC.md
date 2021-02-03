@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 5%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 5%
 + Configurazione e amministrazione {#setup-and-admin}
    + Sorgenti di dati {#data-sources}
       + [Creare un&#39;origine dati per i dati di Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [Creazione di un&#39;origine dati multi-dispositivo e autenticazione](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gestione utente {#user-management}
       + [Impostazione delle autorizzazioni con il controllo degli accessi basato sul ruolo](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Governance dei dati e privacy {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 5%
    + [Utilizzo dei tag manager per implementare  Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Come identificare l&#39;ID partner o il sottodominio](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Utilizzo delle procedure ottimali SPA pagine](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Integrazione dei dati offline {#integrating-offline-data}
+   + [Formattazione e inserimento di dati basati su file](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Passaggi per l&#39;inserimento di dati basati su file](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementazione mobile {#mobile-implementation}
    + [Implementazione nelle app Swift iOS](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Implementazione nelle app iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
