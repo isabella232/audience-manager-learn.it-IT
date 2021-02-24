@@ -1,17 +1,18 @@
 ---
 title: Esempi di regole di unione dei profili e casi di utilizzo
 description: In questo video troverete esempi di regole di unione dei profili e del loro significato, nonché i casi di utilizzo per i quali vengono risolte le regole di unione dei profili.
-feature: profile merge
+feature: unione dei profili
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28975.jpg
 kt: 3709
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
