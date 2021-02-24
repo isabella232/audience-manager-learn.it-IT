@@ -1,17 +1,18 @@
 ---
 title: Aumenta ROAS utilizzando modelli algoritmici (simili a quelli in  Audience Manager)
 description: La vera potenza di  Audience Manager  Modellazione simile viene quando si cerca di espandere il pubblico di riferimento rispetto a una qualità, nuovo set di utenti da origini dati di seconda e terza parte. Questa esercitazione illustra i passaggi necessari per creare un modello a partire da questi dati.
-feature: algorithmic models
+feature: modelli algoritmici
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25188.jpg
 kt: 1849
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
