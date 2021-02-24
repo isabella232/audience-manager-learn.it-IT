@@ -1,17 +1,18 @@
 ---
 title: Utilizzo di modelli simili per estendere l'inventario venduto dai dati di prime parti
 description: In questa esercitazione verranno illustrati i passaggi da seguire per configurare e utilizzare modelli simili a quelli disponibili, in modo da creare nuovi tipi di pubblico simili e venderli come estensione per il segmento di conversione.
-feature: algorithmic models
+feature: modelli algoritmici
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
