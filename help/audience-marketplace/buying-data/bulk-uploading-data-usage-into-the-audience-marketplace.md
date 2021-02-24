@@ -1,17 +1,18 @@
 ---
 title: Caricamento in blocco dell'utilizzo dei dati in  Audience Marketplace
 description: 'Quando si segnala l''utilizzo di dati di seconda e terza parte nel Audience Marketplace , è possibile che siano presenti voci sufficienti per evitare di farlo manualmente. Questo video illustra come utilizzare lo strumento per il caricamento in blocco di rapporti sull’utilizzo dei dati, per segnalare facilmente l’utilizzo dei dati, anche se sono presenti molti elementi da aggiornare. '
-feature: audience marketplace
+feature: mercato del pubblico
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
