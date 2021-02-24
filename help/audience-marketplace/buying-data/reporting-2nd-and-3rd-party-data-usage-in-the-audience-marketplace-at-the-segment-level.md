@@ -1,17 +1,18 @@
 ---
 title: Reporting dell'utilizzo dei dati di seconda e terza parte in  Audience Marketplace a livello di segmento
 description: Questo video mostra un nuovo metodo di reporting dell'utilizzo dei dati nella sezione Payables dell'interfaccia utente del Audience Marketplace . Oltre al processo esistente di reporting a livello di feed, ora è possibile inviare impression mensili a livello di segmento, eliminando la necessità di calcoli offline per l'attribuzione dei costi.
-feature: audience marketplace
+feature: mercato del pubblico
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25522.jpg
 kt: 1758
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
