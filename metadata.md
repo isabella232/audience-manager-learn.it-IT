@@ -2,6 +2,7 @@
 cloud: experience-cloud
 product: audience manager
 type: Tutorial
+feature-set: Audience Manager
 solution-title: Audience Manager
 solution-hub-url: https://helpx.adobe.com/it/support/audience-manager.html
 solution-image: assets/aam-icon-24.png
@@ -13,9 +14,9 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-learn.it-IT
 index: true
 translation-type: tm+mt
-source-git-commit: 7fff1e02177c16c756eaa5a453b8b19f2aa49b25
+source-git-commit: fad76124632e4a02f745375023ae49cf8d6ec1ae
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 7%
 
 ---
@@ -23,21 +24,21 @@ ht-degree: 7%
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repo che passano ai file TOC.md della guida utente nella repo. Se desiderate modificare il contenuto metadata.md per qualsiasi guida utente, effettuate questa operazione in qualsiasi file TOC.md.
+Il file metadata.md include metadati a livello di repository che passano ai file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-| metadata | cosa |
+| metadati | attività |
 |--- |--- |
-| solution-title | Utilizzato nell&#39;intestazione dell&#39;articolo come collegamento |
-| solution-hub-url | Apre la pagina centrale helpx |
+| solution-title | Utilizzato nell’intestazione dell’articolo come collegamento |
+| solution-hub-url | Apre la pagina hub helpx |
 | solution-icon | Visualizza l&#39;icona della soluzione accanto al titolo della soluzione. Non ancora implementato |
-| getting-started | Link alla pagina di guida introduttiva |
-| tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o esercitazioni KT |
-| mini-livelli | Determina il numero di livelli di intestazione visualizzati nella barra a destra. Il valore predefinito è 2 |
-| git-repo | Specifica la posizione del repo principale per uso interno |
+| getting-started-url | Link alla guida introduttiva |
+| tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o KT |
+| mini-toc-levels | Determina il numero di livelli di intestazione visualizzati nella barra a destra. Il valore predefinito è 2 |
+| git-repo | Specifica la posizione del repository principale per uso interno |
 
 In un file TOC.md
 
-| metadata | cosa |
+| metadati | attività |
 |--- |--- |
-| user-guide-title | Utilizzato nell&#39;intestazione dell&#39;articolo come collegamento |
-| user-guide-url | Apre la pagina centrale helpx |
+| user-guide-title | Utilizzato nell’intestazione dell’articolo come collegamento |
+| user-guide-url | Apre la pagina hub helpx |
