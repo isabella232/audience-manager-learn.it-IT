@@ -1,18 +1,19 @@
 ---
 title: Creazione di segmenti per destinazioni basate su persone in Adobe Audience Manager
-description: Questo video illustra la creazione di un segmento nel Audience Manager  da utilizzare per le destinazioni basate sulle persone.
-feature: people-based destinations
+description: Questo video illustra la creazione di un segmento in Audience Manager da utilizzare per le destinazioni basate su persone.
+feature: '"Destinazioni basate su persone"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29236.jpg
 kt: 3690
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # Creazione di segmenti per [!UICONTROL People-Based Destinations]
 
-Questo video illustra la creazione di un [!UICONTROL segment] in  Audience Manager da utilizzare per [!UICONTROL People-Based Destinations].
+Questo video illustra la creazione di un [!UICONTROL segment] in Audience Manager da utilizzare per [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
