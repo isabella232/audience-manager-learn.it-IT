@@ -1,25 +1,26 @@
 ---
-title: Informazioni sull'inserimento dei dati PII con hash per le destinazioni basate sulle persone
-description: In questo video verranno trattati gli aspetti da prendere in considerazione quando si sarà pronti a trasferire i dati PII nel Audience Manager  Destinazioni basate sulle persone.
-feature: people-based destinations
+title: Informazioni sull’acquisizione di dati PII con hash per le destinazioni basate su persone
+description: Questo video illustra gli elementi da considerare quando sei pronto per l’acquisizione di PII in Audience Manager per le destinazioni basate su persone.
+feature: '"Destinazioni basate su persone"'
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 
-# Informazioni sull&#39;inserimento dei dati PII con hash per [!UICONTROL People-Based Destinations]
+# Informazioni sull’acquisizione dei dati PII con hash per [!UICONTROL People-Based Destinations]
 
-In questo video verranno trattati gli aspetti da considerare quando si sarà pronti a inserire PII nel Audience Manager  per [!UICONTROL People-Based Destinations].
+Questo video illustra gli elementi da considerare quando sei pronto per l’acquisizione di PII in Audience Manager per [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
