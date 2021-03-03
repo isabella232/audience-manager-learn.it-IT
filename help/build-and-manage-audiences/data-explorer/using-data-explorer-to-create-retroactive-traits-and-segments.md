@@ -1,29 +1,30 @@
 ---
-title: Utilizzo di Data Explorer per creare caratteristiche e segmenti retroattivi
-description: In questo video viene illustrato come creare caratteristiche retroattive, ad esempio caratteristiche che restituiscono i dati alla caratteristica prima della creazione. Questo è un grande passo avanti nella creazione dei tratti!
-feature: data explorer
+title: Utilizzo di Data Explorer per creare caratteristiche retroattive e segmenti
+description: Questo video mostra come creare caratteristiche retroattive, ovvero caratteristiche che eseguono il backfill dei dati nella caratteristica precedente alla creazione. Questa è una grande svolta nella creazione dei tratti!
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
 
 # Utilizzo di [!DNL Data Explorer] per creare retroattivi [!UICONTROL Traits] e [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-In questo video viene illustrato come creare una versione retroattiva [!UICONTROL traits], ovvero [!UICONTROL traits] che effettua il backfill dei dati in [!UICONTROL trait] da prima della creazione. Questo è un grande passo avanti nella creazione [!UICONTROL trait]!
+Questo video mostra come creare retroattivo [!UICONTROL traits], ovvero [!UICONTROL traits] che esegue il backfill dei dati in [!UICONTROL trait] da prima che siano stati creati. Questa è una grande svolta nella tua creazione [!UICONTROL trait]!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-Fino ad ora, quando hai creato [!UICONTROL traits], hanno raccolto solo i dati in avanti. Ciò significava che dovevamo creare un sacco di [!UICONTROL traits] &quot;nel caso&quot; in cui ricevessero traffico/dati. È ora possibile attendere di vedere quali coppie chiave/valore ricevono i dati, quindi creare un [!UICONTROL trait] e recompilare i dati in quel [!UICONTROL trait]. Questo consente di risparmiare tempo ed energia e di mantenere la tassonomia [!UICONTROL trait] stretta, invece di avere un gruppo di [!UICONTROL traits] che non contengono dati.
+Fino ad ora, quando hai creato [!UICONTROL traits], hanno raccolto solo i dati che avanzavano. Questo significa che abbiamo dovuto creare un sacco di [!UICONTROL traits] &quot;nel caso in cui&quot; hanno ricevuto traffico/dati in loro. Ora puoi aspettare per vedere quali coppie chiave/valore ricevono i dati, quindi creare un [!UICONTROL trait] e retrocompilare i dati in quel [!UICONTROL trait]. Questo ti consente di risparmiare tempo ed energia, e ti aiuta anche a mantenere la tassonomia stretta, invece di avere una serie di [!UICONTROL traits] che non contengono dati.[!UICONTROL trait]
 
-Per ulteriori informazioni su [!DNL Data Explorer], consultare la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Per ulteriori informazioni su [!DNL Data Explorer], visita la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
