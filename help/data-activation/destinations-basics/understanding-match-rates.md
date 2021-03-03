@@ -1,27 +1,28 @@
 ---
 title: Informazioni sulle percentuali di corrispondenza
-description: Questo video illustra le percentuali di corrispondenza in Adobe Audience Manager, i valori e le modalità di calcolo. Verranno inoltre illustrate alcune best practice, oltre a ciò che può causare un tasso di corrispondenza basso.
-feature: match rates
+description: Questo video ti aiuta a capire le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Verranno inoltre illustrate alcune best practice e ciò che può causare un tasso di corrispondenza basso.
+feature: Percentuali di corrispondenza
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 1%
 
 ---
 
 
 # Informazioni sulle percentuali di corrispondenza
 
-Questo video illustra le percentuali di corrispondenza in Adobe Audience Manager, i valori e le modalità di calcolo. Verranno inoltre illustrate alcune best practice, oltre a ciò che può causare un tasso di corrispondenza basso.
+Questo video ti aiuta a capire le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Verranno inoltre illustrate alcune best practice e ciò che può causare un tasso di corrispondenza basso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Per ulteriori informazioni, consultare la [documentazione](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
+Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
