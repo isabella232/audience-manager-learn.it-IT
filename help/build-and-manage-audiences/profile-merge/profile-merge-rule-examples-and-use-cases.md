@@ -1,25 +1,26 @@
 ---
-title: Esempi di regole di unione dei profili e casi di utilizzo
-description: In questo video troverete esempi di regole di unione dei profili e del loro significato, nonché i casi di utilizzo per i quali vengono risolte le regole di unione dei profili.
-feature: unione dei profili
+title: Esempi di regole di unione profili e casi d’uso
+description: In questo video troverai esempi di regole per l’unione di profili e loro significato, nonché i casi d’uso per i quali le regole per l’unione di profili risolvono .
+feature: Unione profili
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Profile Merge Rule] Esempi e casi di utilizzo
+# [!UICONTROL Profile Merge Rule] Esempi e casi d’uso
 
-In questo video troverete esempi di [!UICONTROL Profile Merge Rules] e del relativo significato, oltre ai casi di utilizzo per i quali [!UICONTROL Profile Merge Rules] è possibile risolvere i problemi.
+In questo video troverai esempi di [!UICONTROL Profile Merge Rules] e del loro significato, nonché i casi d’uso per i quali [!UICONTROL Profile Merge Rules] viene risolto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)
