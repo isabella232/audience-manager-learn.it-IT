@@ -1,32 +1,33 @@
 ---
-title: Creazione di un modello con aspetto simile a quello di una prima parte in AAM
-description: In questo video imparerete come creare un modello simile di prima parte, in modo da poter trovare più visitatori che somigliano ai vostri convertitori.
-feature: modelli algoritmici
+title: Creazione di un modello lookalike di prima parte in AAM
+description: In questo video imparerai a creare un modello lookalike di prime parti, in modo da poter trovare più visitatori che assomigliano ai tuoi convertitori.
+feature: Modelli algoritmici
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
 
-# Creazione di un [!UICONTROL First Party] aspetto simile a [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Creazione di un aspetto [!UICONTROL First Party] simile a [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-Questo video illustra come creare un aspetto [!UICONTROL first party] simile [!UICONTROL model], in modo da poter trovare più visitatori che somigliano ai convertitori.
+Questo video illustra come creare un look [!UICONTROL first party] simile [!UICONTROL model] per trovare più visitatori che assomigliano ai tuoi convertitori.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
-I casi d’uso per questo tipo includono:
+I casi di utilizzo includono:
 
-* Come editore, se il vostro inventario &quot;convertitori&quot; è esaurito, potete estenderlo vendendo anche questo pubblico simile.
-* Per coloro che somigliano ai vostri convertitori ma che non lo hanno ancora fatto, date loro marketing o esperienze specifiche sul sito.
+* In qualità di editore, se il tuo inventario &quot;convertitori&quot; è esaurito, puoi estenderlo vendendo anche questo pubblico lookalike.
+* Per coloro che assomigliano ai tuoi convertitori ma non lo hanno ancora fatto, fornisci loro marketing o esperienze specifiche sul sito.
 
-Un vantaggio aggiunto qui è che questo è totalmente gratuito per voi, perché state utilizzando solo i dati che possedete. Questo, ovviamente, aiuta a massimizzare i profitti.
+Un vantaggio aggiunto qui è che questo è totalmente gratuito per voi, perché si utilizzano solo i dati che possedete. Questo, naturalmente, aiuta a massimizzare i vostri profitti.
