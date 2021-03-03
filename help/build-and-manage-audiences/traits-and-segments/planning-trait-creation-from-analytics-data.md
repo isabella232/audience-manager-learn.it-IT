@@ -1,25 +1,26 @@
 ---
 title: Pianificazione della creazione delle caratteristiche dai dati di Analytics
-description: Scopri alcuni suggerimenti e trucchi per aiutarti quando stai pensando di utilizzare  dati Adobe Analytics nelle tue caratteristiche in  Audience Manager.
-feature: traits
+description: Scopri alcuni suggerimenti e trucchi per aiutarti quando prevedi di utilizzare i dati di Adobe Analytics nelle caratteristiche in Audience Manager.
+feature: 'Caratteristiche '
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326780.jpg
 kt: 6491
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 181eac312a82f9c4a532f604688ec7196a2437f5
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
 # Pianificazione della creazione delle caratteristiche dai dati di Analytics
 
-Scopri alcuni suggerimenti e trucchi per aiutarti quando stai pensando di utilizzare  dati Adobe Analytics nelle tue caratteristiche in  Audience Manager.
+Scopri alcuni suggerimenti e trucchi per aiutarti quando prevedi di utilizzare i dati di Adobe Analytics nelle caratteristiche in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)
