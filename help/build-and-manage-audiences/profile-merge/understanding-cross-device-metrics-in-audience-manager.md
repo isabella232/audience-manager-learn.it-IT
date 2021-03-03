@@ -1,25 +1,26 @@
 ---
-title: 'Informazioni sulle metriche cross-device nel Audience Manager '
-description: Questo video illustra la differenza tra i profili dei dispositivi e i profili dei diversi dispositivi e mostra dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
-feature: unione dei profili
+title: Metriche tra dispositivi in Audience Manager
+description: Questo video illustra la differenza tra i profili dei dispositivi e i profili tra dispositivi e mostra dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
+feature: Unione profili
 topics: null
-audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33445.jpg
 kt: 4876
+role: Amministratore
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 
-# Informazioni sulle metriche cross-device nel Audience Manager 
+# Metriche tra dispositivi in Audience Manager
 
-Questo video illustra la differenza tra i profili dei dispositivi e i profili dei diversi dispositivi e mostra dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
+Questo video illustra la differenza tra i profili dei dispositivi e i profili tra dispositivi e mostra dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)
