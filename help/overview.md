@@ -1,16 +1,17 @@
 ---
-title: Video e Tutorials di Analytics
+title: Video e tutorial di Analytics
 description: Una raccolta di video e tutorial per Adobe Analytics.
-feature: overview
+feature: Panoramica
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '349'
 ht-degree: 12%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 12%
 
 # Panoramica
 
-Benvenuti nel sito Tutorials Audience Manager .  L&#39;utilizzo di queste esercitazioni insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) consentirà di comprendere meglio come utilizzare Adobe Audience Manager per creare e attivare audience su qualsiasi canale o dispositivo utilizzando  Adobe  best-in-class [!DNL data management platform].
+Benvenuto/a nel sito delle esercitazioni di Audience Manager.  L&#39;utilizzo di queste esercitazioni insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ti fornirà una migliore comprensione su come utilizzare Adobe Audience Manager per creare e attivare tipi di pubblico su qualsiasi canale o dispositivo utilizzando il sistema all-in-class di Adobe [!DNL data management platform].
 
 * **Il personale** illumina alcuni dei nostri contenuti preferiti
 * Esplora il contenuto per argomento e sottoargomento nella **navigazione a sinistra**
@@ -28,57 +29,57 @@ Benvenuti nel sito Tutorials Audience Manager .  L&#39;utilizzo di queste eserci
 
 * **[Panoramica di  [!UICONTROL Profile Merge Rules] (video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *Scopri cosa  [!UICONTROL Profile Merge Rules] sono, come funzionano e il loro valore per l&#39;esperto di marketing.*
+   *Comprendi cosa  [!UICONTROL Profile Merge Rules] sono, come funzionano e il loro valore per l’addetto al marketing.*
 
-* **[[!UICONTROL Profile Merge Rule]Esempi e casi di utilizzo](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
+* **[[!UICONTROL Profile Merge Rule]Esempi e casi d’uso](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *In questo video troverete esempi di  [!UICONTROL Profile Merge Rules] cosa intendono, oltre ai casi di utilizzo  [!UICONTROL Profile Merge Rules] risolti.*
+   *In questo video troverai esempi di  [!UICONTROL Profile Merge Rules] e cosa intendono, nonché i casi d’uso  [!UICONTROL Profile Merge Rules] risolti.*
 
-* **[Crea e configura[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
+* **[Creare e configurare[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Scoprite come impostare un&#39;interfaccia  [!DNL People-Based Destination] nell&#39;interfaccia utente del Audience Manager*
+   *Scopri come configurare un  [!DNL People-Based Destination] nell’interfaccia utente di Audience Manager*
 
-## Prezzi del personale
+## Scelte dello staff
 
 <table>
 <tr>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
-      <img alt="immagine in miniatura per l'esercitazione "Implementazione del Experience Cloud  nelle applicazioni Swift iOS mobili"" src="assets/thumb_swift.png" />
+      <img alt="immagine miniatura per l’esercitazione "Implementazione di Experience Cloud nelle applicazioni iOS Swift per dispositivi mobili"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
-    <strong>Implementazione del Experience Cloud  nelle app iOS mobili</strong>
+    <strong>Implementazione di Experience Cloud nelle app iOS per dispositivi mobili</strong>
     </a>
     </div>
     <p>
-    <em>Punto di partenza perfetto per gli sviluppatori di app mobili che desiderano imparare a implementare le soluzioni Adobe Experience Cloud nelle loro app iOS Swift</em>
+    <em>Punto di partenza ideale per gli sviluppatori di app mobili che desiderano imparare a implementare le soluzioni Adobe Experience Cloud nelle loro app iOS Swift</em>
     <p>
   </td>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-      <img alt="immagine in miniatura per l'esercitazione "Implementazione del Experience Cloud  nelle applicazioni Android per dispositivi mobili"" src="assets/thumb_android.png" />
+      <img alt="immagine in miniatura per il tutorial "Implementazione di Experience Cloud nelle applicazioni Android per dispositivi mobili"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-    <strong>Implementazione del Experience Cloud  nelle app Mobile [!DNL Android]</strong>
+    <strong>Implementazione di Experience Cloud nelle app mobili Android</strong>
     </a>
     </div>
     <p>
-    <em>Punto di partenza perfetto per gli sviluppatori di app mobili che desiderano imparare a implementare le soluzioni Adobe Experience Cloud nelle loro app Android</em>
+    <em>Punto di partenza ideale per gli sviluppatori di app mobili che desiderano imparare a implementare le soluzioni Adobe Experience Cloud nelle loro app Android</em>
     <p>
   </td>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
-      <img alt="immagine in miniatura per l'esercitazione "Implementazione del Experience Cloud  nelle applicazioni Obiettivo-C per dispositivi mobili"" src="assets/thumb_objective_c.png" />
+      <img alt="immagine miniatura per il tutorial "Implementazione di Experience Cloud nelle applicazioni Objective-C per dispositivi mobili"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
-    <strong>Implementazione del Experience Cloud  nelle app con obiettivo C per dispositivi mobili</strong>
+    <strong>Implementazione di Experience Cloud nelle app Objective-C per dispositivi mobili</strong>
     </a>
     </div>
     <p>
-    <em>Punto di partenza perfetto per gli sviluppatori di app mobili che desiderano imparare a implementare le soluzioni Adobe Experience Cloud nelle loro app Objective-C</em>
+    <em>Punto di partenza ideale per gli sviluppatori di app mobili che desiderano imparare a implementare le soluzioni Adobe Experience Cloud nelle loro app Objective-C</em>
     <p>
   </td>
 </tr>
