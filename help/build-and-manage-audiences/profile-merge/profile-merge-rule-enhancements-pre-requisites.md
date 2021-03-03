@@ -1,25 +1,26 @@
 ---
-title: Miglioramenti delle regole di unione dei profili - Richieste preliminari
-description: Panoramica di come preparare al meglio il rilascio dei miglioramenti delle regole di unione dei profili.
-feature: unione dei profili
+title: Miglioramenti delle regole di unione dei profili - Prerequisiti
+description: Panoramica delle procedure ottimali per il rilascio dei miglioramenti delle regole di unione dei profili.
+feature: Unione profili
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Profile Merge Rule] Miglioramenti - Richieste Preventive
+# [!UICONTROL Profile Merge Rule] Miglioramenti - Prerequisiti
 
-Panoramica di come preparare al meglio il rilascio di [!UICONTROL Profile Merge Rule] Miglioramenti.
+Panoramica delle procedure ottimali per il rilascio di [!UICONTROL Profile Merge Rule] Miglioramenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
