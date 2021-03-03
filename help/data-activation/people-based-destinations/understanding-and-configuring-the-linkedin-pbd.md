@@ -1,18 +1,19 @@
 ---
-title: Informazioni e configurazione della destinazione basata su LinkedIn
-description: Questo video illustra i concetti e i passaggi necessari per creare una destinazione basata sulle persone su LinkedIn. Si basa sui video aggiuntivi e la documentazione relativa alle destinazioni basate sulle persone.
-feature: people-based destinations
+title: Informazioni e configurazione della destinazione LinkedIn basata sulle persone
+description: Questo video illustra i concetti e i passaggi necessari per creare una destinazione LinkedIn basata sulle persone. Si basa sui video e la documentazione aggiuntivi sulle destinazioni basate su persone.
+feature: '"Destinazioni basate su persone"'
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -24,6 +25,6 @@ Questo video illustra i concetti e i passaggi necessari per creare un percorso d
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Per ulteriori informazioni, consultare la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-È inoltre possibile trovare altri video relativi a [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd).
+Puoi trovare anche altri video riguardanti [!UICONTROL People-Based Destinations] [QUI](https://adobe.ly/aamlearnpbd).
