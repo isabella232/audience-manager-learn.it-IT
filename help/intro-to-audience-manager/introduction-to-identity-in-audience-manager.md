@@ -1,25 +1,26 @@
 ---
-title: 'Introduzione all''identità nel Audience Manager '
+title: Introduzione all’identità in Audience Manager
 description: Questo video illustra come Adobe Audience Manager gestisce l’identità, incluse funzioni quali i profili interni, l’unione di profili e la sincronizzazione degli ID con i partner.
 landing-page-description: Scopri come Audience Manager gestisce l’identità, incluse funzioni quali i profili interni, l’unione di profili e la sincronizzazione degli ID con i partner.
-feature: id syncs
+feature: Sincronizzazioni ID
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5146
 thumbnail: 34172.jpg
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 83%
+source-wordcount: '94'
+ht-degree: 73%
 
 ---
 
 
-# Introduzione all&#39;identità nel Audience Manager 
+# Introduzione all’identità in Audience Manager
 
 Questo video illustra come Adobe Audience Manager gestisce l’identità, incluse funzioni quali i profili interni, l’unione di profili e la sincronizzazione degli ID con i partner.
 
