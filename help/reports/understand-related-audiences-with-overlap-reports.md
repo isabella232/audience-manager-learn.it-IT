@@ -1,18 +1,19 @@
 ---
 title: Comprendere i tipi di pubblico correlati con i rapporti di sovrapposizione
-description: I rapporti di sovrapposizione consentono di vedere in che modo le caratteristiche e i segmenti di pubblico si sovrappongono tra loro (lo stesso visitatore in più caratteristiche o segmenti), in modo da sapere dove puoi agire con i tuoi dati per aumentare la conversione o per concentrarti sull'espansione della portata.
-feature: overlap reports
+description: I rapporti di sovrapposizione consentono di vedere in che modo i tipi di pubblico per caratteristiche e segmenti si sovrappongono tra loro (lo stesso visitatore in più caratteristiche o segmenti), in modo da sapere dove puoi agire con i dati per aumentare la conversione o concentrarti sull’espansione della portata.
+feature: Rapporti di sovrapposizione
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -20,8 +21,8 @@ ht-degree: 0%
 
 # Comprendere i tipi di pubblico correlati con i rapporti di sovrapposizione
 
-I rapporti di sovrapposizione consentono di vedere in che modo le caratteristiche e i segmenti di pubblico si sovrappongono tra loro (lo stesso visitatore in più caratteristiche o segmenti), in modo da sapere dove puoi agire con i tuoi dati per aumentare la conversione o per concentrarti sull&#39;espansione della portata.
+I rapporti di sovrapposizione consentono di vedere in che modo i tipi di pubblico per caratteristiche e segmenti si sovrappongono tra loro (lo stesso visitatore in più caratteristiche o segmenti), in modo da sapere dove puoi agire con i dati per aumentare la conversione o concentrarti sull’espansione della portata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Per ulteriori informazioni, consultare la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).
