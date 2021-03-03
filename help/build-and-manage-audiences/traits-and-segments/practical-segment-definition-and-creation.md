@@ -1,25 +1,26 @@
 ---
-title: Definizione e creazione di segmenti pratici
-description: Questo video illustra un processo di definizione dei segmenti e quindi suddividerli per caratteristiche/segnali che dovranno essere creati.
-feature: segments
+title: Pratica della definizione e creazione di segmenti
+description: Questo video illustra il processo di definizione dei segmenti e la loro suddivisione in base alle caratteristiche o ai segnali necessari per crearli.
+feature: 'Segmenti '
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37391.jpg
 kt: 5821
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 77c4eb9f4113d9322f1fc9574e4d9ad6fb480e1d
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
 
-# Definizione e creazione di segmenti pratici
+# Pratica della definizione e creazione di segmenti
 
-Questo video illustra un processo di definizione dei segmenti e quindi suddividerli per caratteristiche/segnali che dovranno essere creati.
+Questo video illustra il processo di definizione dei segmenti e la loro suddivisione in base alle caratteristiche o ai segnali necessari per crearli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
