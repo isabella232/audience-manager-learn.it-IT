@@ -3,16 +3,18 @@ title: Caratteristiche in Real-time CDP per gli utenti di Audience Manager
 description: Quando passi da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze nei concetti. Questo video tratta le caratteristiche in Audience Manager e l’equivalente in Real-time CDP.
 feature: Integrazione di Platform
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331900.jpg
 kt: 7201
+topic: Integrazioni
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 286e47e5c32f0fb90fb00a39248022a4ca9d9b7a
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
