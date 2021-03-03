@@ -1,29 +1,30 @@
 ---
-title: Formattazione e inserimento di dati basati su file
-description: Quando porti la tua prima parte nel Audience Manager  per comprendere meglio e indirizzare il cliente, ci sono alcuni requisiti di formattazione per i dati. In questo video vengono analizzate alcune delle opzioni principali e vengono mostrate le aree in cui ottenere ulteriori informazioni.
-feature: onboarding offline data
+title: Formattazione e acquisizione di dati basati su file
+description: Quando inserisci la tua prima parte in Audience Manager per comprendere meglio e indirizzare il cliente, esistono alcuni requisiti di formattazione per i dati. Questo video illustra alcune delle opzioni principali e mostra dove ottenere ulteriori informazioni.
+feature: Onboarding dei dati offline
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
-# Formattazione e inserimento di dati basati su file
+# Formattazione e acquisizione di dati basati su file
 
-Quando porti la tua prima parte nel Audience Manager  per comprendere meglio e indirizzare il cliente, ci sono alcuni requisiti di formattazione per i dati. In questo video vengono analizzate alcune delle opzioni principali e vengono mostrate le aree in cui ottenere ulteriori informazioni.
+Quando inserisci la tua prima parte in Audience Manager per comprendere meglio e indirizzare il cliente, esistono alcuni requisiti di formattazione per i dati. Questo video illustra alcune delle opzioni principali e mostra dove ottenere ulteriori informazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Per un video sulla denominazione dei file e l&#39;importazione, fate clic su [HERE](steps-for-ingesting-file-based-data.md).
+Per un video sulla denominazione e l&#39;importazione dei file, fai clic su [QUI](steps-for-ingesting-file-based-data.md).
 
-Per ulteriori informazioni, consultare la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
