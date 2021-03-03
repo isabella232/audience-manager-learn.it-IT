@@ -1,25 +1,26 @@
 ---
-title: Creazione di un'origine dati multi-dispositivo e autenticazione
-description: Per portare i dati CRM di 1st party in  Audience Manager per meglio indirizzare i clienti, devi prima creare un'origine dati multi-dispositivo per memorizzare gli ID CRM e i dati. Questo mostra come farlo e come impostare il metodo setCustomerIDs() in Launch per gli accessi.
-feature: data sources
+title: Creazione di un’origine dati multi-dispositivo e autenticazione
+description: Per portare i dati CRM di prima parte in Audience Manager per eseguire il targeting migliore dei clienti, devi innanzitutto creare un’origine dati multi-dispositivo per memorizzare gli ID e i dati CRM. Questo mostra come farlo e come impostare il metodo setCustomerIDs() in Launch per gli accessi.
+feature: Sorgenti di dati
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331006.jpg
 kt: 7025
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: f60c8c401f8627aabc5b5dd48e0a48f8464f7a53
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 1%
 
 ---
 
 
-# Creazione di un&#39;origine dati multi-dispositivo e autenticazione
+# Creazione di un’origine dati multi-dispositivo e autenticazione
 
-Per portare i dati CRM di 1st party in  Audience Manager per meglio indirizzare i clienti, devi prima creare un&#39;origine dati multi-dispositivo per memorizzare gli ID CRM e i dati. Questo mostra come farlo e come impostare il metodo setCustomerIDs() in Experience Platform Launch per gli accessi.
+Per portare i dati CRM di prima parte in Audience Manager per eseguire il targeting migliore dei clienti, devi innanzitutto creare un’origine dati multi-dispositivo per memorizzare gli ID e i dati CRM. Questo mostra come farlo e come impostare il metodo setCustomerIDs() in Experience Platform Launch per gli accessi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)
