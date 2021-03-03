@@ -1,24 +1,25 @@
 ---
-title: Misurazione del ROI in un caso di utilizzo di soppressione del cliente
+title: Misurazione del ROI in un caso d’uso di eliminazione del cliente
 description: Un soldo risparmiato è un soldo guadagnato, giusto? Scopri come utilizzare un paio di formule per determinare il risparmio sui costi della campagna eliminando gli annunci ai clienti esistenti.
-feature: overview
+feature: Panoramica
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36654.jpg
 kt: 5806
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: e089cbefbbb38fd5385779a4634194ba12ff151e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
 
-# Misurazione del ROI in un caso di utilizzo di soppressione del cliente
+# Misurazione del ROI in un caso d’uso di eliminazione del cliente
 
 Un soldo risparmiato è un soldo guadagnato, giusto? Scopri come utilizzare un paio di formule per determinare il risparmio sui costi della campagna eliminando gli annunci ai clienti esistenti.
 
