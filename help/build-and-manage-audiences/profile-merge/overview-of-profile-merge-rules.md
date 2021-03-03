@@ -1,25 +1,26 @@
 ---
 title: Overview of Profile Merge Rules
-description: Comprendi quali sono le regole di unione dei profili, come funzionano e il loro valore per l’esperto di marketing.
-feature: unione dei profili
+description: Scopri cosa sono le regole di unione profili, come funzionano e il loro valore per l’addetto al marketing.
+feature: Unione profili
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 13%
+source-wordcount: '47'
+ht-degree: 10%
 
 ---
 
 
 # Panoramica di [!UICONTROL Profile Merge Rules]
 
-Scopri cosa sono [!UICONTROL Profile Merge Rules], come funzionano e il loro valore per l&#39;esperto di marketing.
+Comprendi cosa sono [!UICONTROL Profile Merge Rules], come funzionano e il loro valore per l’addetto al marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
