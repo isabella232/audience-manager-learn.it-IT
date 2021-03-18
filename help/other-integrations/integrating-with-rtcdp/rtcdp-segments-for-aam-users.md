@@ -1,28 +1,25 @@
 ---
 title: Segmenti in Real-time CDP per gli utenti di Audience Manager
-description: Quando passi da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze nei concetti. Questo video esamina le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.
+description: Passando da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze nei concetti. Questo video esamina le differenze nei segmenti e nella creazione dei segmenti tra CDP in Audience Manager e Real-time.
 feature: Integrazione di Platform
-topics: null
-activity: understand
+topic: Integrazioni
+role: Professionista, Architetto, Amministratore, Leader
+level: Intermedio
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
-topic: Integrazioni
-role: Professionista
-level: Intermedio
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Segmenti in Real-time CDP per gli utenti di Audience Manager
 
-Quando passi da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze nei concetti. Questo video esamina le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.
+Passando da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze nei concetti. Questo video esamina le differenze nei segmenti e nella creazione dei segmenti tra CDP in Audience Manager e Real-time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
 
