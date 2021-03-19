@@ -3,15 +3,15 @@ title: Schemi e XDM in Real-time CDP per gli utenti di Audience Manager
 description: Passando da Audience Manager a Real-time Customer Data Platform (Real-time CDP), incontrerai alcuni nuovi concetti e pratiche. Gli schemi e XDM rientrano in tale categoria. Questo video spiega questi concetti.
 feature: Integrazione di Platform
 topic: Integrazioni
-role: Professionista
+role: Professionista, Architetto, Amministratore, Leader
 level: Intermedio
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
