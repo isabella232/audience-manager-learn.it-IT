@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 4e536596d8fc3f7004e9d0be05b01066a92f73f5
+source-git-commit: 92185bb82356eab8dfb53f79fdbb8b760e313bc3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '923'
+ht-degree: 4%
 
 ---
 
@@ -129,7 +129,7 @@ ht-degree: 0%
       + [Utilizzo delle etichette di esportazione dei dati per controllare il flusso di dati](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Utilizzo di Audience Lab per scegliere un DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [Creazione di caratteristiche di conversione](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+      + [Creazione di caratteristiche di conversione](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
    + Destinazioni basate su persone {#people-based-destinations}
       + [Video e Tutorials sulle destinazioni basate su persone](data-activation/people-based-destinations/pbd.md)
       + [Flusso di dati delle destinazioni basate su persone](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
