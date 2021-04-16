@@ -1,22 +1,22 @@
 ---
 title: Convalida ID dispositivo globale
 description: Device Advertising Identifiers (cioè iDFA, GAID, Roku ID) hanno standard di formattazione che devono essere soddisfatti per essere utilizzabili nell'ecosistema di pubblicità digitale. Oggi, i clienti e i partner possono caricare gli ID nelle nostre origini dati globali in qualsiasi formato senza ricevere alcuna notifica relativa al corretto formattazione dell’ID. Questa funzione introdurrà la convalida degli ID dispositivo inviati alle origini dati globali per una corretta formattazione e fornirà messaggi di errore quando gli ID vengono formattati in modo errato. Al momento del lancio supporteremo la convalida degli ID iDFA, Google Advertising e Roku ID.
-feature: '"Governance dei dati e privacy"'
+feature: Governance dei dati e privacy
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: '"Sviluppatore, data engineer, architect"'
-level: Esperienza
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # Convalida ID dispositivo globale {#global-device-id-validation}
 
@@ -31,7 +31,7 @@ Di seguito sono riportati i pool di ID di Device Advertising globali attualmente
    <td>Piattaforma </td>
    <td>ID origine dati AAM </td>
    <td>Formato ID </td>
-   <td>AAM PID </td>
+   <td>PID AAM </td>
    <td>Note </td>
   </tr>
   <tr>
@@ -73,12 +73,12 @@ Di seguito sono riportati i pool di ID di Device Advertising globali attualmente
 
 ## Impostazione di un identificatore pubblicitario nell&#39;app {#setting-an-advertising-identifier-in-the-app}
 
-L’impostazione dell’ID inserzionista nell’app è in realtà un processo in due fasi: prima recupera l’ID dell’inserzionista e poi lo invia a Experience Cloud. Di seguito sono riportati i collegamenti che consentono di eseguire questi passaggi.
+L’impostazione dell’ID inserzionista nell’app è in realtà un processo in due fasi: prima recupera l’ID dell’inserzionista e poi lo invia all’Experience Cloud. Di seguito sono riportati i collegamenti che consentono di eseguire questi passaggi.
 
 1. Recupera l&#39;ID
    1. [!DNL Apple] le informazioni sul  [!DNL advertising ID] sono disponibili  [QUI](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
    1. Per ulteriori informazioni sull&#39;impostazione di [!DNL advertiser ID] per gli sviluppatori [!DNL Android], consulta [HERE](http://www.androiddocs.com/google/play-services/id.html).
-1. Invialo in Experience Cloud utilizzando il metodo [!DNL setAdvertisingIdentifier] nell&#39;SDK
+1. Invialo nell’Experience Cloud utilizzando il metodo [!DNL setAdvertisingIdentifier] nell’SDK
    1. Le informazioni per l&#39;utilizzo di `setAdvertisingIdentifier` si trovano nella [documentazione](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) sia per [!DNL iOS] che per [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
@@ -86,7 +86,7 @@ L’impostazione dell’ID inserzionista nell’app è in realtà un processo in
 
 ## Messaggi di errore DCS per ID errati {#dcs-error-messaging-for-incorrect-ids}
 
-Quando un ID dispositivo globale non corretto (IDFA, GAID, ecc.) viene inviato in tempo reale ad Audience Manager, viene restituito un codice di errore sull’hit. Di seguito è riportato un esempio di errore restituito perché l’ID viene inviato come [!DNL Apple IDFA], che deve contenere solo lettere maiuscole e tuttavia è presente una lettera &#39;x&#39; minuscola nell’ID.
+Quando un ID dispositivo globale non corretto (IDFA, GAID, ecc.) viene inviato in tempo reale ad Audience Manager, viene restituito un codice di errore sull&#39;hit. Di seguito è riportato un esempio di errore restituito perché l’ID viene inviato come [!DNL Apple IDFA], che deve contenere solo lettere maiuscole e tuttavia è presente una lettera &#39;x&#39; minuscola nell’ID.
 
 ![immagine di errore](assets/image_4_.png)
 
