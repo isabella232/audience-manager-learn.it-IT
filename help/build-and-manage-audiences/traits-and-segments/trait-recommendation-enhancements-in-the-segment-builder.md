@@ -1,15 +1,15 @@
 ---
 title: Miglioramenti delle raccomandazioni sulle caratteristiche nel Generatore di segmenti
 description: In questo video vedrai come utilizzare i consigli sulle caratteristiche aggiornate nel generatore di segmenti, che sono consigli di Audience Marketplace. Queste ti daranno ulteriori informazioni sui dati di terze parti che possono estendere la portata dei tuoi segmenti.
-feature: 'Segmenti '
+feature: Segments
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

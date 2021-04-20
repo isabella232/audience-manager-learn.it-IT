@@ -1,15 +1,15 @@
 ---
 title: Monitoraggio e reporting sull’utilizzo delle attività
 description: In questo video verrà illustrato come utilizzare Activity Usage Report (Report sull'utilizzo dell'attività), incluse le opzioni di visualizzazione e download.
-feature: Utilizzo e fatturazione
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Amministrazione
-role: '"Sviluppatore, data engineer, Administrator"'
-level: Principiante
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Creazione e utilizzo di regole semplici di unione profili
 description: Scopri le regole di unione dei profili e come assegnarle ai segmenti. Scopri il profilo "Dispositivo corrente" predefinito e quando può/deve essere utilizzato.
-feature: Unione profili
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

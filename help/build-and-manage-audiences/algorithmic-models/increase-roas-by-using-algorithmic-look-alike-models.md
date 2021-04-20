@@ -1,15 +1,15 @@
 ---
 title: Aumento del ROAS utilizzando modelli algoritmici (lookalike) in Audience Manager
 description: La potenza reale della Modellazione lookalike di Audience Manager viene fornita quando si cerca di espandere il pubblico di riferimento rispetto a un nuovo set di utenti di qualità provenienti da fonti di dati di seconde e terze parti. In questa esercitazione, scopri i passaggi per creare un modello a partire da questi dati.
-feature: Modelli algoritmici
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

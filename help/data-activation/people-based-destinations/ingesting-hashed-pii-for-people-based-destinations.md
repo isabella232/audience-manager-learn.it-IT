@@ -1,15 +1,15 @@
 ---
 title: Acquisizione di dati PII con hash per le destinazioni basate su persone
 description: In questo video, scopri come formattare una sincronizzazione ID basata su file per collegare gli ID cliente (ID CRM) con indirizzi e-mail con hash.
-feature: '"Destinazioni basate su persone"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

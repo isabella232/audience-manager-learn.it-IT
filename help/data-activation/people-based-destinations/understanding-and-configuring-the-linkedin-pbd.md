@@ -1,15 +1,15 @@
 ---
 title: Informazioni e configurazione della destinazione LinkedIn basata sulle persone
 description: Questo video illustra i concetti e i passaggi necessari per creare una destinazione LinkedIn basata sulle persone. Si basa sui video e la documentazione aggiuntivi sulle destinazioni basate su persone.
-feature: '"Destinazioni basate su persone"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Esempi di regole di unione profili e casi d’uso
 description: In questo video troverai esempi di regole per l’unione di profili e loro significato, nonché i casi d’uso per i quali le regole per l’unione di profili risolvono .
-feature: Unione profili
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

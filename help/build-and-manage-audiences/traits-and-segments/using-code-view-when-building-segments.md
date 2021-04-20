@@ -1,15 +1,15 @@
 ---
 title: Utilizzo della Vista Codice durante la creazione dei segmenti
 description: Scopri come utilizzare la vista Codice per definire i segmenti e creare combinazioni complesse di caratteristiche, compreso l’utilizzo di frequenza e frequenza.
-feature: 'Segmenti '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

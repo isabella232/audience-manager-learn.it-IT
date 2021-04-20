@@ -1,7 +1,7 @@
 ---
 title: Il futuro della gestione dei dati e l'ambiente in evoluzione
 description: Dal momento che le forze di mercato apportano cambiamenti al nostro panorama digitale, le aziende devono adattarsi a una nuova realtà in materia di governance dei dati, risoluzione delle identità e come coinvolgere i potenziali visitatori e i visitatori pseudonimi con contenuti significativi. A tal fine, emergono molti percorsi diversi per sfruttare identificatori durevoli con sistemi esterni per ottenere una scala. In questo webinar, scopri come Adobe e 451 Research stanno pensando al futuro della tecnologia e dei dati per affrontare il nuovo ambiente di marketing e iniziare a preparare la tua attività per il futuro della gestione dei dati.
-feature: Panoramica
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

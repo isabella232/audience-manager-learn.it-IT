@@ -1,7 +1,7 @@
 ---
 title: Supporto IAB TCF 2.0 in Audience Manager
 description: Adobe offre i mezzi per gestire e comunicare le scelte degli utenti in materia di privacy tramite la funzionalità Opt-in e il plug-in di Audience Manager al supporto IAB Transparency and Consent Framework 2.0 (TCF 2.0). Questo articolo funziona insieme alla documentazione per comprendere il plug-in di Audience Manager a IAB TCF e come funziona insieme all’oggetto Opt-in di Adobe e al tuo provider di gestione del consenso (CMP, Consent Management Provider).
-feature: '"Governance dei dati e privacy"'
+feature: "Data Governance & Privacy"
 activity: implement
 doc-type: technical video
 team: Technical Marketing

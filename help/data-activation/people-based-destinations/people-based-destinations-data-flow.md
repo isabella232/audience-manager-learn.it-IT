@@ -1,15 +1,15 @@
 ---
 title: Flusso di dati delle destinazioni basate su persone
 description: Questo video offre una panoramica delle destinazioni basate su persone e mostra il flusso di dati all’interno del processo.
-feature: '"Destinazioni basate su persone"'
+feature: "People-based Destinations"
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

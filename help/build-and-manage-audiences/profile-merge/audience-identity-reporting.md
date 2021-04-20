@@ -1,7 +1,7 @@
 ---
 title: Report identità pubblico
 description: Audience Identity Reporting (Report identità pubblico) offre ai clienti la possibilità di eseguire report sulla popolazione totale di una caratteristica o delle definizioni di un segmento per persona/famiglia di identità. Guardate questo video per vedere come si manifesta nei rapporti sul Audience Manager .
-feature: unione dei profili
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

@@ -1,15 +1,15 @@
 ---
 title: Informazioni e configurazione della destinazione basata sulle persone del Customer Match di Google
 description: Questo video illustra i dettagli e il caso d’uso della destinazione basata su Persone del Customer Match di Google e include una procedura dettagliata per creare un segmento e mapparlo a una destinazione. Mostra anche il pubblico di destinazione in Google Ad Console.
-feature: '"Destinazioni basate su persone"'
+feature: "People-based Destinations"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38552.jpg
 kt: 6042
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

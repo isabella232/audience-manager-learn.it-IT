@@ -1,15 +1,15 @@
 ---
 title: Creazione di caratteristiche di conversione in Audience Manager
 description: Alcune delle caratteristiche si basano sulle conversioni sul sito. In questo video, scopri come designarli come tali e impara un consiglio/gotcha molto importante.
-feature: 'Caratteristiche '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

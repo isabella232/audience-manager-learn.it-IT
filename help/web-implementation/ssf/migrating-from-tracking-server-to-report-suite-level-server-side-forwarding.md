@@ -2,13 +2,13 @@
 title: Migrazione da Tracking Server a Report Suite-Side Forwarding
 description: Questo articolo e questo video illustra come abilitare l’inoltro lato server dei dati di Analytics all’Audience Manager a livello di suite di rapporti anziché a livello di server di tracciamento.
 product: audience manager
-feature: Integrazione di Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

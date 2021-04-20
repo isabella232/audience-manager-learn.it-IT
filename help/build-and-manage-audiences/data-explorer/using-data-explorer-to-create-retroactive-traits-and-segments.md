@@ -1,15 +1,15 @@
 ---
 title: Utilizzo di Data Explorer per creare caratteristiche retroattive e segmenti
 description: Questo video mostra come creare caratteristiche retroattive, ovvero caratteristiche che eseguono il backfill dei dati nella caratteristica precedente alla creazione. Questa è una grande svolta nella creazione dei tratti!
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

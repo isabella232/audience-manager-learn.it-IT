@@ -1,15 +1,15 @@
 ---
 title: Formattazione e acquisizione di dati basati su file
 description: Quando inserisci la tua prima parte in Audience Manager per comprendere meglio e indirizzare il cliente, esistono alcuni requisiti di formattazione per i dati. Questo video illustra alcune delle opzioni principali e mostra dove ottenere ulteriori informazioni.
-feature: Onboarding dei dati offline
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Convalida ID dispositivo globale
 description: Device Advertising Identifiers (cioè iDFA, GAID, Roku ID) hanno standard di formattazione che devono essere soddisfatti per essere utilizzabili nell'ecosistema di pubblicità digitale. Oggi, i clienti e i partner possono caricare gli ID nelle nostre origini dati globali in qualsiasi formato senza ricevere alcuna notifica relativa al corretto formattazione dell’ID. Questa funzione introdurrà la convalida degli ID dispositivo inviati alle origini dati globali per una corretta formattazione e fornirà messaggi di errore quando gli ID vengono formattati in modo errato. Al momento del lancio supporteremo la convalida degli ID iDFA, Google Advertising e Roku ID.
-feature: Governance dei dati e privacy
+feature: Data Governance & Privacy
 topics: mobile
 activity: implement
 doc-type: article

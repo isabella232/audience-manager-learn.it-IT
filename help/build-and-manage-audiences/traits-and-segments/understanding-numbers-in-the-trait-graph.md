@@ -1,15 +1,15 @@
 ---
 title: Informazioni sui numeri nel grafico delle caratteristiche
 description: Scopri alcuni suggerimenti su come comprendere i numeri riportati per le caratteristiche nella schermata di informazioni sulle caratteristiche.
-feature: 'Caratteristiche '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

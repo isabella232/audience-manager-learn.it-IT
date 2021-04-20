@@ -1,15 +1,15 @@
 ---
 title: Suggerimenti per il cliente - Ottenere il massimo dalle regole di unione dei profili
 description: Varun Kalra, Multi-Solution Consultant di Accordant, offre suggerimenti sulla scelta e l’utilizzo delle regole di unione dei profili (PMR).
-feature: Unione profili
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

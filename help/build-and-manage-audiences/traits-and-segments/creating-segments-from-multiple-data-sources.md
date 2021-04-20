@@ -1,15 +1,15 @@
 ---
 title: Creazione di segmenti da più origini dati
 description: Quando crei segmenti in Audience Manager, puoi aggiungere caratteristiche da varie sorgenti di dati. Questo video illustra come farlo e illustra altre impostazioni da considerare.
-feature: 'Segmenti '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37713.jpg
 kt: 5867
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

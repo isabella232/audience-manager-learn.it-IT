@@ -1,10 +1,10 @@
 ---
 title: Informazioni sui segnali in Real-time CDP per gli utenti di Audienci Manager
 description: Questo video è destinato ad Audience Manager agli utenti che passano alla Real-time Customer Data Platform (Real-time CDP) e illustra come vengono utilizzati in Platform i segnali (coppie chiave-valore) utilizzati in Audience Manager per creare le caratteristiche.
-feature: Integrazione di Platform
-topic: Integrazioni
-role: Professionista, Architetto, Amministratore, Leader
-level: Intermedio
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305

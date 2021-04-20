@@ -2,14 +2,14 @@
 title: Concetti e termini fondamentali di Audience Manager
 description: In questo video presenteremo alcuni dei termini e dei concetti di base che ti consentiranno di iniziare a utilizzare Audience Manager, compresi segnali, tratti, segmenti, ecc.
 landing-page-description: Scopri i termini e i concetti di base per iniziare a utilizzare Audience Manager, inclusi segnali, caratteristiche, segmenti e molto altro.
-feature: Panoramica
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
 translation-type: tm+mt

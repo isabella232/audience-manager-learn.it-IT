@@ -1,15 +1,15 @@
 ---
 title: Utilizzo del dashboard dei segnali per visualizzare rapidamente i principali segnali disponibili
 description: Utilizzando tabelle integrate e personalizzate sul dashboard Segnali in Data Explorer, puoi visualizzare rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

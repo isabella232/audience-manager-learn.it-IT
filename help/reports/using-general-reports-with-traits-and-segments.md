@@ -1,15 +1,15 @@
 ---
 title: Utilizzo dei rapporti generali con caratteristiche e segmenti
 description: In questo video, scopri come utilizzare i rapporti generali di Audience Manager per ottenere numeri per caratteristiche e segmenti.
-feature: '"Rapporti generali e sulle tendenze"'
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328279.jpg
 kt: 6645
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

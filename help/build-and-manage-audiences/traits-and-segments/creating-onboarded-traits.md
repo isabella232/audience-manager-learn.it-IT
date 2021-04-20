@@ -1,15 +1,15 @@
 ---
 title: Creazione di caratteristiche onboarded
 description: Scopri alcuni suggerimenti per la creazione di caratteristiche integrate in Audience Manager.
-feature: 'Caratteristiche '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Utilizzo delle regole di unione dei profili per l’estensione del dispositivo e la maggiore portata
 description: Utilizza le regole di unione profili per estendere la portata a tutti i dispositivi di un utente, in modo da poter commercializzare con le persone invece che con i dispositivi.
-feature: Unione profili
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

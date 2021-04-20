@@ -1,16 +1,16 @@
 ---
 title: Impostazione delle autorizzazioni con il controllo degli accessi basato sul ruolo
 description: Il controllo degli accessi basato sui ruoli di Adobe Audience Manager consente di gestire le autorizzazioni a livello di gruppo, controllando chi può visualizzare e lavorare con le risorse, incluse caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
-feature: Amministrazione
+feature: Administration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329120.jpg
 kt: 6737
-topic: Amministrazione
-role: Amministratore
-level: Intermedio
+topic: Administration
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

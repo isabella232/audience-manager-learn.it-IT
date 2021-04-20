@@ -1,15 +1,15 @@
 ---
 title: 'Utilizzo di Data Explorer per convalidare la creazione di caratteristiche per i dati onboarded '
 description: Una delle funzionalità più potenti di Audience Manager è la capacità di integrare dati offline e collegarli ai dati online. In questo video, scopri come utilizzare Data Explorer per verificare di aver creato tutte le caratteristiche necessarie per sfruttare questi dati onboarded.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Informazioni sulle percentuali di corrispondenza
 description: Questo video ti aiuta a capire le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Verranno inoltre illustrate alcune best practice e ciò che può causare un tasso di corrispondenza basso.
-feature: Percentuali di corrispondenza
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

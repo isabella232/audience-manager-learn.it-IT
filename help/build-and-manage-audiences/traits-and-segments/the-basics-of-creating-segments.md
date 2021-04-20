@@ -1,15 +1,15 @@
 ---
 title: Nozioni di base sulla creazione dei segmenti
 description: Scorri i campi nell’interfaccia utente per creare un segmento in Audience Manager.
-feature: 'Segmenti '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

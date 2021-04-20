@@ -1,14 +1,14 @@
 ---
 title: Come un DMP può cambiare la tua attività
 description: Le piattaforme di gestione dei dati sono il discorso del mondo tecnologico in questo momento, ma cosa sono e cosa ancora più importante, come possono aiutarti in qualità di esperto di marketing a realizzare i tuoi obiettivi? Durante questa sessione spiegheremo cosa è un DMP e presenteremo alcuni case study reali in cui i clienti hanno visto incredibili rendimenti sul loro investimento, da acquisti di media più efficienti a conversioni significativamente aumentate.
-feature: Panoramica
+feature: Overview
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

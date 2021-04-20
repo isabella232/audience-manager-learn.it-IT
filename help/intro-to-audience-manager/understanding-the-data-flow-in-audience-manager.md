@@ -1,15 +1,15 @@
 ---
 title: Flusso di dati in Audience Manager
 description: Questo video ti aiuta a comprendere Adobe Audience Manager descrivendo il flusso di dati in entrata, in uscita e fuori dall’applicazione.
-feature: Panoramica
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Utilizzo di modelli lookalike per estendere l’inventario venduto dai dati di prime parti
 description: In questa esercitazione, passeremo attraverso i passaggi da seguire per configurare e utilizzare Modelli lookalike per creare nuovi tipi di pubblico lookalike e venderli come estensione al segmento di conversione.
-feature: Modelli algoritmici
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

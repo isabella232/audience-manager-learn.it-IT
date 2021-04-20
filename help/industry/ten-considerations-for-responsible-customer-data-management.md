@@ -1,7 +1,7 @@
 ---
 title: 10 considerazioni sulla gestione responsabile dei dati dei clienti
 description: Le forze di mercato volatili e i diversi requisiti in materia di privacy dei consumatori possono presentare scenari scoraggianti per l'addetto al marketing digitale. Per mantenere le campagne nella giusta direzione dei regolamenti, i team di marketing hanno bisogno dei loro omologhi IT per avere un processo semplificato che consenta di verificare in futuro il processo di governance dei dati, che consenta idealmente a tutti di seguire e applicare le regole di utilizzo responsabile dei dati dei consumatori. Ascolta l'Adobe e Scotiabank Digital su considerazioni chiave per una gestione responsabile dei dati.
-feature: Panoramica
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

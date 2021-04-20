@@ -2,13 +2,13 @@
 title: Creare un’origine dati per i dati di Analytics
 description: In questo video esaminiamo i passaggi, inclusi suggerimenti e trucchi, della creazione di una sorgente dati in AAM che puoi utilizzare per i dati provenienti in tempo reale da una soluzione di analisi, ad esempio Adobe Analytics. Questa operazione deve essere eseguita prima di creare caratteristiche per i dati di analisi.
 landing-page-description: Scopri come creare un’origine dati per i dati da ricevere in tempo reale da una soluzione di analisi, come Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
-feature: Sorgenti di dati
+feature: Data Sources
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt

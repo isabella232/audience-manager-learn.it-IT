@@ -1,15 +1,15 @@
 ---
 title: Suggerimenti per i clienti - Best practice per caratteristiche e segmenti
 description: Matt Vittorioso, Senior Marketing Specialist di Ally Financial, offre suggerimenti sulla gestione di caratteristiche e segmenti.
-feature: 'Segmenti '
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

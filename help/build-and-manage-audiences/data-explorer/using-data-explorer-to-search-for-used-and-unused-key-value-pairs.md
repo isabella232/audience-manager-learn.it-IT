@@ -1,15 +1,15 @@
 ---
 title: Utilizzo di Data Explorer per cercare coppie chiave/valore utilizzate e non utilizzate in AAM
 description: Nel lavoro quotidiano in Audience Manager, potrebbe essere necessario scoprire rapidamente se una caratteristica è stata creata da una coppia chiave/valore specifica. Questo video illustra come scoprire con Data Explorer.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

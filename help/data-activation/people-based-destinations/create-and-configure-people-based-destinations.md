@@ -1,15 +1,15 @@
 ---
 title: Creare e configurare destinazioni basate su persone
 description: Questo video fornisce innanzitutto alcune informazioni sui prerequisiti per la creazione della destinazione basata sulle persone e quindi mostra come configurare un account integrato (collegamento al partner, ad esempio Facebook). Viene quindi descritto l’impostazione interna al prodotto della destinazione stessa.
-feature: '"Destinazioni basate su persone"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,10 +1,10 @@
 ---
 title: Informazioni sull’acquisizione dei dati di prime parti in Real-time CDP per gli utenti di Audience Manager
 description: Questo video illustra l’inserimento di dati offline di prime parti in Real-time Customer Data Platform (Real-time CDP) per coloro che utilizzano Adobe Audience Manager. Esaminiamo alcune delle principali differenze tra i due prodotti per quanto riguarda l’inserimento dei dati e mostra come il connettore dati di Audience Manager può essere utilizzato come interruzione finché i processi non vengono trasferiti a Real-time CDP.
-feature: Integrazione di Platform
-topic: Integrazioni
-role: Professionista, Architetto, Amministratore, Leader
-level: Intermedio
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128

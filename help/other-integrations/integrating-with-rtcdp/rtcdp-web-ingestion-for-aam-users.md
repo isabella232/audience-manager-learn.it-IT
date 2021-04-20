@@ -1,10 +1,10 @@
 ---
 title: Informazioni sull’acquisizione di dati web in Real-time CDP per gli utenti di Audience Manager
 description: Questo video mostra agli utenti di Audienci Manager i concetti relativi all’inserimento dei dati del sito Web in Real-time Customer Data Platform (Real-time CDP) e include un tocco di alto livello su dove si trova il connettore dati di Audience Manager, nonché su come i dati possono spostarsi direttamente dal sito Web tramite l’SDK web a Real-time CDP.
-feature: Integrazione di Platform
-topic: Integrazioni
-role: Professionista, Architetto, Amministratore, Leader
-level: Intermedio
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

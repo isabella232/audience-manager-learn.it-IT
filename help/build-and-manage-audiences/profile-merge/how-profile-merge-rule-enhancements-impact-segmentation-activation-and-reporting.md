@@ -1,15 +1,15 @@
 ---
 title: Effetti dei miglioramenti delle regole di unione profili sulla segmentazione, l’attivazione e il reporting
 description: Come i miglioramenti delle regole di unione dei profili avranno un impatto sulle popolazioni di caratteristiche totali e di segmenti nell’interfaccia utente di Audience Manager
-feature: Unione profili
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
