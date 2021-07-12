@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla gestione in blocco (BAAAM)
-description: Scopri lo strumento Gestione in blocco di Audience Manager, comunemente denominato "BAAAM". Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
+description: Scopri lo strumento di gestione in blocco Audience Manager, comunemente denominato "BAAAM". Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
 feature: BAAAM
 topics: null
 activity: use
@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 327692.jpg
 kt: 6050
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 1%
 
 ---
-
 
 # Introduzione alla gestione in blocco (BAAAM)
 
