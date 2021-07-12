@@ -1,27 +1,26 @@
 ---
 title: Passaggi per l’acquisizione di dati basati su file
-description: Questo video illustra i pochi passaggi da prendere in considerazione durante l’inserimento di dati offline in Audience Manager, inclusi i requisiti del nome file per il file di dati.
-feature: Onboarding Offline Data
+description: Questo video illustra i pochi passaggi da prendere in considerazione durante l’inserimento in Audience Manager di dati offline, inclusi i requisiti del nome file per il file di dati.
+feature: Onboarding dei dati offline
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-
 # Passaggi per l’acquisizione di dati basati su file
 
-Questo video illustra i pochi passaggi da prendere in considerazione durante l’inserimento di dati offline in Audience Manager, inclusi i requisiti del nome file per il file di dati.
+Questo video illustra i pochi passaggi da prendere in considerazione durante l’inserimento in Audience Manager di dati offline, inclusi i requisiti del nome file per il file di dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
