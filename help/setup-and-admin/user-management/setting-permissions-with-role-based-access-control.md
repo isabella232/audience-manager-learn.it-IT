@@ -1,27 +1,26 @@
 ---
 title: Impostazione delle autorizzazioni con il controllo degli accessi basato sul ruolo
-description: Il controllo degli accessi basato sui ruoli di Adobe Audience Manager consente di gestire le autorizzazioni a livello di gruppo, controllando chi può visualizzare e lavorare con le risorse, incluse caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
-feature: Administration
+description: Il controllo dell’accesso basato sui ruoli di Adobe Audience Manager consente di gestire le autorizzazioni a livello di gruppo, controllando chi può visualizzare e lavorare con le risorse, incluse caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
+feature: Amministrazione
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329120.jpg
 kt: 6737
-topic: Administration
-role: Administrator
+topic: Amministrazione
+role: Admin
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: decfe5fc-cec7-4f0a-875d-8a5f8d9c9ed6
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 2%
 
 ---
 
-
 # Impostazione delle autorizzazioni con [!DNL Role-Based Access Control]
 
-Il [!DNL Role-Based Access Control] di Adobe Audience Manager ti consente di gestire le autorizzazioni a livello di gruppo, controllando chi può visualizzare e lavorare con le risorse, incluse caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
+Adobe Audience Manager [!DNL Role-Based Access Control] consente di gestire le autorizzazioni a livello di gruppo, controllando chi può visualizzare e lavorare con le risorse, incluse caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)
