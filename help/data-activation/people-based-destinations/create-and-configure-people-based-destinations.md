@@ -1,23 +1,22 @@
 ---
 title: Creare e configurare destinazioni basate su persone
 description: Questo video fornisce innanzitutto alcune informazioni sui prerequisiti per la creazione della destinazione basata sulle persone e quindi mostra come configurare un account integrato (collegamento al partner, ad esempio Facebook). Viene quindi descritto l’impostazione interna al prodotto della destinazione stessa.
-feature: "People-based Destinations"
+feature: '"Destinazioni basate su persone"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Crea e configura [!UICONTROL People-based Destinations]
 
