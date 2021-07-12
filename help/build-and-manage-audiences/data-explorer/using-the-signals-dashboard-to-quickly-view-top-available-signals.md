@@ -1,27 +1,26 @@
 ---
 title: Utilizzo del dashboard dei segnali per visualizzare rapidamente i principali segnali disponibili
-description: Utilizzando tabelle integrate e personalizzate sul dashboard Segnali in Data Explorer, puoi visualizzare rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
-feature: Data Explorer
+description: Utilizzando tabelle integrate e personalizzate sul dashboard Segnali in Data Explorer, puoi vedere rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
-
 # Utilizzo del dashboard [!UICONTROL Signals] per visualizzare rapidamente i principali elementi disponibili [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-Utilizzando tabelle integrate e personalizzate sul dashboard [!UICONTROL Signals] in [!DNL Data Explorer], puoi visualizzare rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle tue esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
+Utilizzando tabelle integrate e personalizzate sul dashboard [!UICONTROL Signals] in [!DNL Data Explorer], puoi vedere rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
