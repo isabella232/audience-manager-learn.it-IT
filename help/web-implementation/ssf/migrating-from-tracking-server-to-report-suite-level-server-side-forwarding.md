@@ -2,17 +2,16 @@
 title: Migrazione da Tracking Server a Report Suite-Side Forwarding
 description: Questo articolo e questo video illustra come abilitare l’inoltro lato server dei dati di Analytics all’Audience Manager a livello di suite di rapporti anziché a livello di server di tracciamento.
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Integrazione di Adobe Analytics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -27,7 +26,7 @@ Questo articolo e questo video ti mostreranno come abilitare [!UICONTROL server-
 
 Se disponi di Adobe Audience Manager E Adobe Analytics, puoi implementare &quot;[!UICONTROL Server-side Forwarding]&quot; dei dati [!DNL Analytics] in Audience Manager. Questo significa che, invece di inviare 2 hit alla pagina (uno a [!DNL Analytics] e uno ad Audience Manager), può semplicemente inviare un hit a [!DNL Analytics] e [!DNL Analytics] inoltrerà tali dati ad Audience Manager. Se questo è già in esecuzione e lo hai abilitato/implementato prima di ottobre 2017, il tuo [!UICONTROL server-side forwarding] potrebbe essere basato sul tuo &quot;[!UICONTROL Tracking Server]&quot;, che doveva essere abilitato dall&#39;Assistenza clienti Adobe o da Adobe Consulting. A partire da ottobre 2017, ora puoi configurare [!UICONTROL server-side forwarding] autonomamente e farlo a livello [!UICONTROL Report Suite] (inoltro PER [!UICONTROL Report Suite]). Questo aspetto presenta notevoli vantaggi, che saranno discussi di seguito.
 
-## [!UICONTROL Tracking Server] Inoltro  {#tracking-server-forwarding}
+## [!UICONTROL Tracking Server] Inoltro {#tracking-server-forwarding}
 
 Il [!UICONTROL tracking server] è la posizione in cui invii i dati [!DNL Analytics] e anche il dominio in cui vengono scritti la richiesta di immagini e il cookie. Deve essere impostato in DTM o [!DNL Experience Platform Launch] o nel file [!DNL AppMeasurement.js] e avrà un aspetto simile a questo, con il tuo sito o nome commerciale che sostituisce &quot;mysite&quot;:
 
