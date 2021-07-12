@@ -1,23 +1,22 @@
 ---
 title: Esclusione di caratteristiche nei modelli algoritmici (lookalike)
 description: 'Questo video illustra come e perché escludere caratteristiche specifiche (o gruppi di) da un modello algoritmico (lookalike). '
-feature: Algorithmic Models
+feature: Modelli algoritmici
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
-
 
 # Esclusione di [!UICONTROL Traits] in Algorithmic (Look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
