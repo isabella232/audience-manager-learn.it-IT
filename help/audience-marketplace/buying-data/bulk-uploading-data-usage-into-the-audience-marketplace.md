@@ -1,6 +1,6 @@
 ---
 title: Caricamento in blocco dell’utilizzo dei dati in Audience Marketplace
-description: 'Quando segnali l’utilizzo di dati di seconde e terze parti in Audience Marketplace, potresti avere abbastanza voci da far sì che non desideri farlo manualmente. In questo video imparerai a utilizzare lo strumento di caricamento in serie per la generazione di rapporti sull’utilizzo dei dati, in modo da poter segnalare facilmente l’utilizzo dei dati, anche se hai molti elementi da aggiornare. '
+description: 'Quando segnali l’utilizzo di dati di terze parti e di seconda parte nell’Audience Marketplace, potresti avere abbastanza voci da rendere impossibile l’esecuzione manuale. In questo video imparerai a utilizzare lo strumento di caricamento in serie per la generazione di rapporti sull’utilizzo dei dati, in modo da poter segnalare facilmente l’utilizzo dei dati, anche se hai molti elementi da aggiornare. '
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: ad725f78-1730-4f42-b185-f868120c7b50
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Caricamento in blocco dell&#39;utilizzo dei dati in [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
