@@ -2,17 +2,16 @@
 title: Migrazione dell’implementazione AAM del sito da Client-Side DIL a Server-Side Forwarding
 description: Questa esercitazione si applica agli utenti che dispongono sia di Adobe Audience Manager (AAM) che di Adobe Analytics e che attualmente inviano un hit dalla pagina a AAM utilizzando il codice "DIL" (Data Integration Library) e inviando anche un hit dalla pagina ad Adobe Analytics. Poiché entrambe le soluzioni sono in tuo possesso e poiché fanno entrambe parte di Adobe Experience Cloud, hai l’opportunità di seguire la best practice per attivare "Server-Side Forwarding (SSF)", che consente ai server di raccolta dati di Analytics di inoltrare i dati analitici del sito in tempo reale ad Audience Manager, invece di far sì che il codice lato client invii un hit aggiuntivo dalla pagina a AAM. Questa esercitazione ti guiderà attraverso i passaggi necessari per passare dalla precedente implementazione "Client-Side DIL" al più recente metodo di "Server-Side forwarding".
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Integrazione di Adobe Analytics
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '2322'
 ht-degree: 0%
@@ -29,7 +28,7 @@ Quando si confrontano e si confrontano questi due metodi per ottenere i dati di 
 
 ![lato client a lato server](assets/client-side_vs_server-side_aam_implementation.png)
 
-### [!DNL Client-side] Implementazione di DIL  {#client-side-dil-implementation}
+### [!DNL Client-side] Implementazione di DIL {#client-side-dil-implementation}
 
 Se utilizzi questo metodo per ottenere i dati di Adobe Analytics in AAM, significa che due hit provengono dalle pagine Web: Uno che va a [!DNL Analytics] e uno che va a AAM (dopo aver copiato i dati [!DNL Analytics] sulla pagina Web. [!UICONTROL Segments] vengono restituiti da AAM alla pagina, dove possono essere utilizzati per la personalizzazione, ecc. Questa operazione è considerata un’implementazione &quot;legacy&quot; e non è più consigliata.
 
@@ -48,7 +47,7 @@ Come mostrato nell&#39;immagine precedente, un hit viene dalla pagina web ad Ado
 
 Il passaggio a Server-Side Forwarding non comporta alcun rallentamento. Si consiglia vivamente a tutti coloro che dispongono sia di Audienci Manager che di [!DNL Analytics] di utilizzare questo metodo di implementazione.
 
-## Hai due attività principali {#you-have-two-main-tasks}
+## Hai DUE Attività Principali {#you-have-two-main-tasks}
 
 C&#39;è un bel po&#39; di informazioni su questa pagina, ed è tutto importante, naturalmente. Tuttavia, **tutto si riduce a due cose principali che è necessario fare**:
 
@@ -79,7 +78,7 @@ Se utilizzi un TMS non Adobe o nessun TMS, implementa ECID per eseguire **before
 >
 >Leggere l&#39;intero documento prima di implementarlo. La sezione &quot;Tempimento&quot; riportata di seguito contiene informazioni importanti su *quando* devi implementare ogni pezzo, incluso ECID (se non è ancora implementato).
 
-### Passaggio 1: Record Opzioni attualmente utilizzate dal codice DIL {#step-record-currently-used-options-from-dil-code}
+### Passaggio 1: Opzioni del codice DIL attualmente in uso {#step-record-currently-used-options-from-dil-code}
 
 Quando ti prepari a passare da [!DNL Client-Side] codice DIL a [!UICONTROL Server-Side Forwarding], il primo passaggio consiste nell’identificare tutte le operazioni che esegui con il codice DIL, incluse le impostazioni personalizzate e i dati inviati a AAM. Gli aspetti da considerare e da considerare includono:
 
@@ -145,7 +144,7 @@ Sulla base di questi dettagli tecnici, ecco le raccomandazioni per la tempistica
 
    1. L’inoltro ora scorrerà (come hai aggiunto ECID) e dovresti anche ricevere una risposta JSON corretta al beacon [!DNL Analytics] (consulta la sezione Convalida e risoluzione dei problemi di seguito per ulteriori dettagli).
 
-#### Se ECID è implementato {#if-you-do-have-ecid-implemented}
+#### Se ECID è stato implementato {#if-you-do-have-ecid-implemented}
 
 1. Prepara e pianifica in modo da essere pronti ad aggiornare il codice da DIL a SSF PER [!UICONTROL report suite] che verrà abilitato per SSF:
 
@@ -161,7 +160,7 @@ Sulla base di questi dettagli tecnici, ecco le raccomandazioni per la tempistica
 
 **NOTA 2:** Se preferisci avere una piccola discrepanza nei dati piuttosto che una piccola duplicazione dei dati, puoi cambiare l&#39;ordine dei passaggi 1 e 2 precedenti. Lo spostamento del codice da DIL a SSF arresta il flusso di dati in AAM fino a quando non è stato possibile capovolgere l’interruttore per attivare l’SSF per il [!UICONTROL report suite]. In genere, i clienti preferiscono raddoppiare i dati anziché perdere l’accesso ai visitatori in [!UICONTROL traits] e [!UICONTROL segments].
 
-#### Tempi di migrazione quando disponi di molti siti e [!UICONTROL Report Suites] {#migration-timing-when-you-have-many-sites-and-report-suites}
+#### Tempi di migrazione quando hai molti siti e [!UICONTROL Report Suites] {#migration-timing-when-you-have-many-sites-and-report-suites}
 
 Questo argomento è trattato brevemente nelle sezioni precedenti, in quanto la strategia principale può essere riassunta come segue:
 
