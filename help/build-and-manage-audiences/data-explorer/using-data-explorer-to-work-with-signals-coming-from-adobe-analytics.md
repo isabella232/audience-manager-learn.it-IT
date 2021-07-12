@@ -1,23 +1,22 @@
 ---
 title: Utilizzo di Data Explorer per lavorare con i segnali provenienti da Adobe Analytics
-description: Questo video mostra come lavorare in Data Explorer per scoprire e utilizzare i dati di Adobe Analytics, inclusa la ricerca di segnali usati e non utilizzati, la creazione di caratteristiche di Analytics e la comprensione dei dati.
-feature: Data Explorer
+description: Questo video mostra come lavorare in Data Explorer per scoprire e utilizzare i dati di Adobe Analytics, inclusa la ricerca di segnali utilizzati e non utilizzati, la creazione di caratteristiche di Analytics e la comprensione di tali dati.
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 82507055-0072-48fe-8031-225fb55351be
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
-
 
 # Utilizzo di [!DNL Data Explorer] per lavorare con [!UICONTROL Signals] proveniente da Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
 
@@ -25,7 +24,7 @@ Questo video mostra come lavorare in [!DNL Data Explorer] per scoprire e utilizz
 
 >[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
-È probabile che una delle principali fonti di dati che accedi ad Audience Manager sia una soluzione di analisi, e naturalmente speriamo che sia Adobe Analytics. :
+È probabile che una delle principali fonti di dati che vengono in Audience Manager sia una soluzione di analisi, e ovviamente speriamo che sia Adobe Analytics. :
 
 [!DNL Data Explorer] è preparato e pronto per aiutarti a vedere cosa arriva da varie suite di rapporti, e quando scopri  [!DNL Analytics] i segnali che non sono ancora utilizzati in  [!UICONTROL traits], puoi fare clic direttamente su  [!DNL Trait Builder] e creare il  [!UICONTROL traits] per utilizzare questi potenti dati comportamentali nella segmentazione.
 
