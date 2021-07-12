@@ -1,25 +1,24 @@
 ---
-title: Interfaccia di Match Rate (Velocità di corrispondenza) in Audience Manager
+title: Interfaccia di match rate in Audience Manager
 description: Questo video illustra l’interfaccia di destinazione e spiega i numeri associati alle percentuali di corrispondenza e ai tipi di pubblico utilizzabili.
-feature: Match Rates
+feature: Percentuali di corrispondenza
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 903f8329-a434-4938-b190-600fc03b571d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 2%
 
 ---
 
-
-# Interfaccia di Match Rate (Velocità di corrispondenza) in Audience Manager
+# Interfaccia di match rate in Audience Manager
 
 Questo video illustra l’interfaccia di [!UICONTROL destination], mostrando e spiegando i numeri associati alle percentuali di corrispondenza e a [!DNL addressable audiences].
 
