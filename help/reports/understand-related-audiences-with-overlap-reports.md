@@ -1,23 +1,22 @@
 ---
 title: Comprendere i tipi di pubblico correlati con i rapporti di sovrapposizione
 description: I rapporti di sovrapposizione consentono di vedere in che modo i tipi di pubblico per caratteristiche e segmenti si sovrappongono tra loro (lo stesso visitatore in più caratteristiche o segmenti), in modo da sapere dove puoi agire con i dati per aumentare la conversione o concentrarti sull’espansione della portata.
-feature: Overlap Reports
+feature: Rapporti di sovrapposizione
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: e6d90964-9315-4aa5-8d68-d5ffa4d9e09c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Comprendere i tipi di pubblico correlati con i rapporti di sovrapposizione
 
