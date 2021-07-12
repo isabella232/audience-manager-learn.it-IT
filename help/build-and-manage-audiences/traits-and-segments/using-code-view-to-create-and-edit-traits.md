@@ -1,23 +1,22 @@
 ---
 title: Utilizzo della vista Codice per creare e modificare le caratteristiche
 description: Scopri come utilizzare la vista Codice durante la creazione di nuove caratteristiche o la modifica di caratteristiche esistenti. La vista Codice è un’alternativa al Generatore di espressioni quando si imposta l’espressione della caratteristica.
-feature: Traits
+feature: 'Caratteristiche '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326613.jpg
 kt: 6441
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 763bbc25-57f1-456a-b94c-7c5c1ec1e3bb
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 1%
 
 ---
-
 
 # Utilizzo della vista Codice per creare e modificare le caratteristiche
 
