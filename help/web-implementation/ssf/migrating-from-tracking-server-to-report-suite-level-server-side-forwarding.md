@@ -2,7 +2,7 @@
 title: Migrazione da Tracking Server a Report Suite-Side Forwarding
 description: Questo articolo e questo video illustra come abilitare l’inoltro lato server dei dati di Analytics all’Audience Manager a livello di suite di rapporti anziché a livello di server di tracciamento.
 product: audience manager
-feature: Integrazione di Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Se non sei sicuro se [!DNL tracking server forwarding] è abilitato, contatta l�
 
 ## [!UICONTROL Report Suite]-Livello  [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-Uno dei maggiori vantaggi per il passaggio all’ [!UICONTROL report suite] inoltro da [!UICONTROL tracking server] è che ora potrai utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente l’Audience Manager [!UICONTROL segments] ad Adobe Analytics per un’analisi dettagliata [!UICONTROL segment]. Questa grande funzionalità NON è supportata se sei ancora in inoltro [!UICONTROL tracking server] e non in inoltro [!UICONTROL report suite]. Per ulteriori informazioni sull&#39;Audience Analytics, consulta la sezione [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+Uno dei maggiori vantaggi per il passaggio all’ [!UICONTROL report suite] inoltro da [!UICONTROL tracking server] è che ora potrai utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente l’Audience Manager [!UICONTROL segments] ad Adobe Analytics per un’analisi dettagliata [!UICONTROL segment]. Questa grande funzionalità NON è supportata se sei ancora in inoltro [!UICONTROL tracking server] e non in inoltro [!UICONTROL report suite]. Per ulteriori informazioni sull&#39;Audience Analytics, consulta la sezione [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
