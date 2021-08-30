@@ -1,7 +1,7 @@
 ---
 title: Configura e genera rapporti su [!UICONTROL Predictive Audiences] in Audience Manager
 description: Questo video illustra la configurazione [!UICONTROL Predictive Audiences] nellâ€™interfaccia di Audience Manager. Vedremo anche i rapporti che mostrano i risultati del modello.
-feature: Modelli algoritmici
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 4390
 role: Admin
 level: Intermediate
 exl-id: 5c4f8b2e-b0ed-44b6-a19c-be5ea6312646
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 2%
+source-wordcount: '81'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Questo video illustra la configurazione [!UICONTROL Predictive Audiences] nellâ€
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
