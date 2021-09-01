@@ -10,10 +10,9 @@ kt: 2977
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
@@ -71,20 +70,20 @@ Di seguito sono riportati i pool di ID di Device Advertising globali attualmente
   </tr>
 </table>
 
-## Impostazione di un identificatore pubblicitario nell&#39;app {#setting-an-advertising-identifier-in-the-app}
+## Impostazione di un identificatore pubblicitario nell’app {#setting-an-advertising-identifier-in-the-app}
 
 L’impostazione dell’ID inserzionista nell’app è in realtà un processo in due fasi: prima recupera l’ID dell’inserzionista e poi lo invia all’Experience Cloud. Di seguito sono riportati i collegamenti che consentono di eseguire questi passaggi.
 
 1. Recupera l&#39;ID
    1. [!DNL Apple] le informazioni sul  [!DNL advertising ID] sono disponibili  [QUI](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
-   1. Per ulteriori informazioni sull&#39;impostazione di [!DNL advertiser ID] per gli sviluppatori [!DNL Android], consulta [HERE](http://www.androiddocs.com/google/play-services/id.html).
+   1. Per ulteriori informazioni sull&#39;impostazione di [!DNL advertiser ID] per gli sviluppatori [!DNL Android], consulta [HERE](http://android.cn-mirrors.com/google/play-services/id.html).
 1. Invialo nell’Experience Cloud utilizzando il metodo [!DNL setAdvertisingIdentifier] nell’SDK
    1. Le informazioni per l&#39;utilizzo di `setAdvertisingIdentifier` si trovano nella [documentazione](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) sia per [!DNL iOS] che per [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
-## Messaggi di errore DCS per ID errati {#dcs-error-messaging-for-incorrect-ids}
+## Messaggi di errore DCS per ID errati  {#dcs-error-messaging-for-incorrect-ids}
 
 Quando un ID dispositivo globale non corretto (IDFA, GAID, ecc.) viene inviato in tempo reale ad Audience Manager, viene restituito un codice di errore sull&#39;hit. Di seguito è riportato un esempio di errore restituito perché l’ID viene inviato come [!DNL Apple IDFA], che deve contenere solo lettere maiuscole e tuttavia è presente una lettera &#39;x&#39; minuscola nell’ID.
 
