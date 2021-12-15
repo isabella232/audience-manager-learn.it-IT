@@ -3,7 +3,8 @@ user-guide-title: Tutorial su Adobe Audience Manager
 user-guide-description: Una raccolta di video e tutorial su Adobe Analytics.
 breadcrumb-title: Audience Manager Tutorials
 solution: Audience Manager
-source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
+type: Tutorial
+source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 4%
@@ -65,7 +66,7 @@ ht-degree: 4%
       + [Utilizzo di filtri e Recommendations per scegliere dati di terze parti in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + Dati di vendita {#selling-data}
       + [Commercializzare i tipi di pubblico di proprietà su Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ Creare e gestire tipi di pubblico {#build-and-manage-audiences}
++ Creare e gestire i tipi di pubblico {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Utilizzo del dashboard dei segnali per visualizzare rapidamente i principali segnali disponibili](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Utilizzo di Data Explorer per cercare coppie chiave/valore utilizzate e non utilizzate](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -101,7 +102,7 @@ ht-degree: 4%
       + [Informazioni sui numeri nel grafico dei segmenti](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Suggerimenti per i clienti - Best practice per caratteristiche e segmenti](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelli algoritmici {#algorithmic-models}
-      + [Informazioni su [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Comprensione [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
       + [Configura e genera rapporti su [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Creazione di un modello lookalike di prima parte](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Esclusione di caratteristiche nei modelli algoritmici (lookalike)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
