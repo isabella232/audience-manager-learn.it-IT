@@ -1,5 +1,5 @@
 ---
-title: Utilizzo di filtri e Recommendations per scegliere dati di terze parti in Audience Marketplace
+title: Utilizza filtri e consigli per scegliere dati di terze parti in Audience Marketplace
 description: Questo video illustra le opzioni di filtri e consigli dell’Audience Marketplace per aiutarti a scegliere il provider di dati di terze parti più adatto alle tue esigenze.
 feature: Audience Marketplace
 topics: null
@@ -11,17 +11,17 @@ kt: 3938
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: b59c82a0-4dd5-44d7-8309-aded26dd494e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# Utilizzo di filtri e Recommendations per scegliere i dati [!UICONTROL Third Party] in [!UICONTROL Audience Marketplace]
+# Utilizza filtri e consigli per scegliere dati di terze parti in [!UICONTROL Audience Marketplace]
 
-Questo video illustra i filtri e le opzioni di consigli disponibili in [!UICONTROL Audience Marketplace] per aiutarti a scegliere il provider di dati [!UICONTROL third party] più adatto alle tue esigenze.
+Questo video illustra i filtri e le opzioni di consigli nella sezione [!UICONTROL Audience Marketplace] per aiutarti a scegliere il provider di dati di terze parti più adatto alle tue esigenze.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Per ulteriori informazioni, visita il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).

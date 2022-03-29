@@ -1,7 +1,7 @@
 ---
-title: Utilizzo delle regole di unione profili per personalizzare in uno stato di autenticazione
+title: Utilizzare le regole di unione profili per personalizzare in uno stato autenticato
 description: Dai ai clienti che hai effettuato l’accesso un’esperienza personalizzata utilizzando queste impostazioni delle regole di unione profili .
-feature: Unione profili
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5357
 role: User
 level: Intermediate
 exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Utilizzo di [!UICONTROL Profile Merge Rules] per la personalizzazione in uno stato di autenticazione
+# Utilizzo [!UICONTROL Profile Merge Rules] per personalizzare in uno stato autenticato
 
-Dai ai clienti che hai effettuato l’accesso un’esperienza personalizzata utilizzando queste impostazioni delle regole di unione profili .
+Offri ai clienti registrati un’esperienza personalizzata utilizzando questi [!UICONTROL Profile Merge Rule] impostazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

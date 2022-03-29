@@ -1,7 +1,7 @@
 ---
-title: Metriche tra dispositivi in Audience Manager
-description: Questo video illustra la differenza tra i profili dei dispositivi e i profili tra dispositivi e mostra dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
-feature: Unione profili
+title: Comprendere le metriche multi-dispositivo nell’Audience Manager
+description: Scopri la differenza tra i profili dei dispositivi e i profili tra dispositivi e dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 4876
 role: Admin
 level: Intermediate
 exl-id: 1075c33c-e230-456d-9ec7-70d8ad65f44b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Metriche tra dispositivi in Audience Manager
+# Informazioni sulle metriche multi-dispositivo in Audience Manager
 
-Questo video illustra la differenza tra i profili dei dispositivi e i profili tra dispositivi e mostra dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
+In questo video, scopri la differenza tra i profili dei dispositivi e i profili tra dispositivi e dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

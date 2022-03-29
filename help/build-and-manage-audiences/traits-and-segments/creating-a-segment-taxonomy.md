@@ -1,7 +1,7 @@
 ---
-title: Creazione della tassonomia dei segmenti
+title: Creare una tassonomia dei segmenti
 description: Quando crei un segmento in Audience Manager, lo archivi in una struttura basata su cartelle o in una "tassonomia". Scopri alcuni suggerimenti per creare e gestire la tassonomia dei segmenti.
-feature: 'Segmenti '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 5933
 role: User
 level: Beginner
 exl-id: aa00b640-0b52-4c11-9165-9d73c78e77bf
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 7c0d2c510851c3bae949b62dfa361d85f27e682e
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 1%
+source-wordcount: '66'
+ht-degree: 0%
 
 ---
 
-# Creazione della tassonomia dei segmenti
+# Creare una tassonomia dei segmenti
 
 Quando crei un segmento in Audience Manager, lo archivi in una struttura basata su cartelle o in una &quot;tassonomia&quot;. Scopri alcuni suggerimenti per creare e gestire la tassonomia dei segmenti.
 

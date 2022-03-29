@@ -1,6 +1,6 @@
 ---
-title: Report identità pubblico
-description: Audience Identity Reporting (Report identità pubblico) offre ai clienti la possibilità di eseguire report sulla popolazione totale di una caratteristica o delle definizioni di un segmento per persona/famiglia di identità. Guardate questo video per vedere come si manifesta nei rapporti sul Audience Manager .
+title: Reporting sulle identità del pubblico
+description: Scopri il reporting sull’identità del pubblico. Questo tipo di reporting in Audience Manager ti consente di creare rapporti sulla popolazione totale di una caratteristica o segmento in base alle definizioni di identità di una persona o famiglia.
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] Generazione di report
+# Reporting sulle identità del pubblico
 
-[!DNL Audience Identity] I rapporti forniscono ai clienti la possibilità di segnalare la popolazione totale delle definizioni di identità di una persona  [!UICONTROL trait] o  [!UICONTROL segment] di una famiglia. Guardate questo video per vedere come si manifesta nei rapporti sul Audience Manager .
+La generazione di rapporti di identità del pubblico consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità della persona o della famiglia. Guarda questo video per vedere come si manifesta nei report di Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

@@ -1,7 +1,7 @@
 ---
-title: Utilizzo dei Tag Manager per implementare l’Audience Manager
-description: Questo video illustra le nozioni di base sull’implementazione di Adobe Audience Manager quando si utilizza una soluzione di gestione tag.
-feature: Nozioni di base sull’implementazione
+title: Utilizzare i tag manager per implementare Audience Manager
+description: Scopri le nozioni di base sull’implementazione di Adobe Audience Manager quando utilizzi una soluzione di gestione tag.
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,22 +10,22 @@ kt: 4051
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8559ff60-0755-4cbb-9f2c-d06ab37a64a4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Utilizzo dei Tag Manager per implementare l’Audience Manager
+# Utilizzare i tag manager per implementare Audience Manager
 
-Questo video illustra le nozioni di base sull’implementazione di Adobe Audience Manager quando si utilizza una soluzione di gestione tag.
+In questo video, scopri le nozioni di base sull’implementazione di Adobe Audience Manager quando utilizzi una soluzione di gestione tag.
 
 Sono stati evidenziati i seguenti casi d’uso:
 
-* Implementazione tramite Adobe Experience Platform Launch anche quando utilizzi Adobe Analytics
-* Implementazione tramite Adobe Experience Platform Launch quando NON utilizzi Adobe Analytics
-* Implementazione tramite un gestore di tag non Adobe quando utilizzi Adobe Analytics
-* Implementazione tramite un gestore di tag non Adobe quando NON utilizzi Adobe Analytics
+* Implementazione tramite tag Adobe Experience Platform (già Launch) quando si utilizza anche Adobe Analytics
+* Implementazione tramite tag Adobe Experience Platform quando non utilizzi Adobe Analytics
+* Implementazione tramite un gestore di tag non Adobe quando si utilizza Adobe Analytics
+* Implementazione tramite un gestore di tag non Adobe quando non utilizzi Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

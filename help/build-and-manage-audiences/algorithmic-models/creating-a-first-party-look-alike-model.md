@@ -1,7 +1,7 @@
 ---
-title: Creazione di un modello lookalike di prima parte in AAM
+title: Creare un modello lookalike di prima parte
 description: In questo video imparerai a creare un modello lookalike di prime parti, in modo da poter trovare più visitatori che assomigliano ai tuoi convertitori.
-feature: Modelli algoritmici
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ kt: 1805
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Creazione di un [!UICONTROL First Party] lookalike [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Crea un modello lookalike di prima parte in Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-Questo video illustra come creare un look [!UICONTROL first party] simile [!UICONTROL model] per trovare più visitatori che assomigliano ai tuoi convertitori.
+In questo video imparerai a creare un modello lookalike di prime parti, in modo da poter trovare più visitatori che assomigliano ai tuoi convertitori.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 

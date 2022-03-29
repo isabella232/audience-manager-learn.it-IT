@@ -4,163 +4,163 @@ user-guide-description: Una raccolta di video e tutorial su Adobe Analytics.
 breadcrumb-title: Audience Manager Tutorials
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '970'
-ht-degree: 4%
+source-wordcount: '966'
+ht-degree: 3%
 
 ---
 
 
 # Tutorials Audience Manager {#tutorials}
 
-+ [Panoramica](overview.md)
++ [Esercitazioni di Audience Manager](overview.md)
 + Introduzione all’Audience Manager {#intro-to-audience-manager}
    + [Come un DMP può cambiare la tua attività](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Panoramica di un DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
-   + [Audience Manager di casi di utilizzo](intro-to-audience-manager/audience-manager-use-cases.md)
-   + [Concetti e termini fondamentali](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
-   + [Flusso di dati in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
-   + [Introduzione all’identità in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
+   + [Casi d’uso Audienci Manager](intro-to-audience-manager/audience-manager-use-cases.md)
+   + [Comprendere i termini e i concetti di base](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
+   + [Comprendere il flusso di dati nell’Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
+   + [Introduzione all&#39;identità nell&#39;Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Realizzazione dei valori {#value-realization}
       + [Misurazione del ROI in un caso d’uso di eliminazione del cliente](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Notizie e tendenze del settore {#industry}
    + [Il futuro della gestione dei dati e l&#39;ambiente in evoluzione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
    + [10 considerazioni sulla gestione responsabile dei dati dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [Un racconto di due percezioni: marchi e consumatori](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Evoluzione del centro di eccellenza del pubblico](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Evoluzione del tuo Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
    + [Creare esperienze migliori con i profili dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Configurazione e amministrazione {#setup-and-admin}
-   + Sorgenti di dati {#data-sources}
+   + Origini dati {#data-sources}
       + [Creare un’origine dati per i dati di Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
       + [Creazione di un’origine dati multi-dispositivo e autenticazione](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gestione utente {#user-management}
-      + [Impostazione delle autorizzazioni con il controllo degli accessi basato sul ruolo](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
+      + [Impostare le autorizzazioni con il controllo degli accessi basato su ruolo](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Governance dei dati e privacy {#data-governance-and-privacy}
       + [Convalida ID dispositivo globale](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Supporto IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Offuscamento IP per paese](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Utilizzo e fatturazione {#usage-and-billing}
-      + [Monitoraggio e reporting sull’utilizzo delle attività](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
+      + [Monitorare e creare rapporti sull’utilizzo dell’attività](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Implementazione web {#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Aggiornamento a DIL versione 8.0 (o successiva)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF (Server-Side Forwarding) {#ssf}
-      + [Implementazione nei siti web con Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
-      + [Migrazione dell’implementazione AAM del sito da Client-Side DIL a Server-Side Forwarding](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
-      + [Migrazione da Tracking Server a Report Suite-Side Forwarding](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
-   + [Utilizzo dei Tag Manager per implementare l’Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
+   + SSF (inoltro lato server) {#ssf}
+      + [Utilizzare i tag di Experience Platform per implementare nei siti web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Migrazione dell’implementazione AAM del sito dall’inoltro lato client a DIL lato server](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
+      + [Migrazione dal server di tracciamento all’inoltro lato server a livello di suite di rapporti](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
+   + [Utilizzare i tag manager per implementare Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Come identificare l’ID partner o il sottodominio](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
-   + [Utilizzo delle best practice sulle pagine SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
+   + [Utilizzare le best practice sulle pagine SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
 + Integrazione dei dati offline {#integrating-offline-data}
    + [Formattazione e acquisizione di dati basati su file](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Passaggi per l’acquisizione di dati basati su file](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Implementazione mobile {#mobile-implementation}
-   + [Implementazione nelle app Swift di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementazione nelle app Objective-C di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Implementazione nelle app Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
++ Implementazione Mobile {#mobile-implementation}
+   + [Implementazione nelle applicazioni Swift di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implementazione nelle applicazioni Objective-C di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementazione nelle applicazioni Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Acquisto di dati {#buying-data}
-      + [Reporting Utilizzo dei dati di seconde e terze parti in Audience Marketplace a livello di segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
-      + [Caricamento in blocco dell’utilizzo dei dati in Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
-      + [Utilizzo di filtri e Recommendations per scegliere dati di terze parti in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+      + [Reporting dell’utilizzo di dati di seconde e terze parti in Audience Marketplace a livello di segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
+      + [Utilizzo di dati di caricamento in serie in Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
+      + [Utilizza filtri e consigli per scegliere dati di terze parti in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + Dati di vendita {#selling-data}
       + [Commercializzare i tipi di pubblico di proprietà su Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Creare e gestire i tipi di pubblico {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
-      + [Utilizzo del dashboard dei segnali per visualizzare rapidamente i principali segnali disponibili](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
-      + [Utilizzo di Data Explorer per cercare coppie chiave/valore utilizzate e non utilizzate](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
-      + [Salvataggio delle ricerche nella Data Explorer di convenienza nel riutilizzo](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
-      + [Utilizzo di Data Explorer per creare caratteristiche e segmenti retroattivi](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
-      + [Utilizzo di Data Explorer per convalidare la creazione di caratteristiche per i dati onboarded](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
-      + [Utilizzo di Data Explorer per lavorare con i segnali provenienti da Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
+      + [Utilizza il dashboard dei segnali per visualizzare rapidamente i principali segnali disponibili](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
+      + [Usa Data Explorer per cercare le coppie chiave/valore utilizzate e non utilizzate](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
+      + [Salva le ricerche nella Data Explorer per un comodo riutilizzo](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+      + [Utilizzare Data Explorer per creare caratteristiche e segmenti retroattivi](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
+      + [Utilizzare Data Explorer per convalidare la creazione di caratteristiche per i dati onboarded](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
+      + [Utilizzare Data Explorer per lavorare con i segnali provenienti da Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
    + Caratteristiche e segmenti {#traits-and-segments}
-      + [Pianificazione della creazione delle caratteristiche dai dati di Analytics](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
-      + [Creazione della tassonomia delle caratteristiche](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
-      + [Creazione di caratteristiche basate su regole](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
-      + [Creazione di caratteristiche onboarded](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
-      + [Creazione di caratteristiche di conversione](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
-      + [Scelta di un’origine dati durante la creazione di caratteristiche](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
-      + [Configurazione della scadenza delle caratteristiche con l’impostazione Time to Live (TTL)](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
-      + [Utilizzo della vista Codice per creare e modificare le caratteristiche](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
+      + [Pianificare la creazione delle caratteristiche dai dati di Analytics](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
+      + [Creare una tassonomia delle caratteristiche](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
+      + [Creare un tratto basato su regole](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
+      + [Creare caratteristiche onboarded](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
+      + [Creare una caratteristica di conversione](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+      + [Scegliere un’origine dati durante la creazione di caratteristiche](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+      + [Configurare la scadenza delle caratteristiche con l’impostazione Time to Live (TTL)](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
+      + [Utilizza la vista Codice per creare e modificare le caratteristiche](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [Introduzione alla gestione in blocco (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
-      + [Creazione e gestione in blocco di caratteristiche con BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
-      + [Nozioni di base sulla creazione dei segmenti](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
-      + [Creazione della tassonomia dei segmenti](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
-      + [Pratica della definizione e creazione di segmenti](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
-      + [Creazione di segmenti da più origini dati](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
-      + [Scelta di un’origine dati durante la creazione di un segmento](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-a-segment.md)
-      + [Miglioramento dei segmenti con Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
-      + [Miglioramenti delle raccomandazioni sulle caratteristiche nel Generatore di segmenti](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
-      + [Utilizzo di recency e frequenza nei segmenti](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
-      + [Utilizzo della Vista Codice durante la creazione dei segmenti](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Creare e gestire le caratteristiche in blocco con BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
+      + [Nozioni di base sulla creazione di segmenti](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
+      + [Creare una tassonomia dei segmenti](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
+      + [Definizione e creazione pratiche dei segmenti](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
+      + [Creare segmenti da più origini dati](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
+      + [Scegliere un’origine dati durante la creazione di un segmento](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-a-segment.md)
+      + [Migliorare i segmenti con i consigli sulle caratteristiche](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
+      + [Miglioramenti delle raccomandazioni sulle caratteristiche nella segmentazione](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
+      + [Utilizza recency e frequenza nei segmenti](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
+      + [Utilizzare la vista Codice durante la creazione di segmenti](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
       + [Importare segmenti da Adobe Analytics in Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
-      + [Creazione di un segmento per eliminare gli annunci ai clienti](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
-      + [Mappatura dei segmenti di Audience Manager sulle destinazioni](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
-      + [Mappatura dei segmenti su una destinazione basata su dispositivi](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
-      + [Informazioni sui numeri nel grafico delle caratteristiche](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
-      + [Informazioni sui numeri nel grafico dei segmenti](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
+      + [Creare un segmento per eliminare gli annunci ai clienti](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
+      + [Mappatura di segmenti di Audience Manager su destinazioni](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
+      + [Mappare i segmenti su una destinazione basata su dispositivi](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
+      + [Comprendere i numeri nel grafico delle caratteristiche](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
+      + [Comprendere i numeri nel grafico dei segmenti](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Suggerimenti per i clienti - Best practice per caratteristiche e segmenti](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelli algoritmici {#algorithmic-models}
-      + [Comprensione [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Comprendere Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
       + [Configura e genera rapporti su [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
-      + [Creazione di un modello lookalike di prima parte](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
-      + [Esclusione di caratteristiche nei modelli algoritmici (lookalike)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
-      + [Aumenta il ROAS utilizzando modelli algoritmici (lookalike)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
-      + [Utilizzo di modelli lookalike per estendere l’inventario venduto dai dati di prime parti](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
+      + [Creare un modello lookalike di prime parti](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
+      + [Escludere le caratteristiche nei modelli algoritmici (lookalike)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
+      + [Aumento del ROAS utilizzando modelli algoritmici (lookalike)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
+      + [Utilizzo di modelli lookalike per estendere l’inventario esaurito dai dati di prime parti](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
    + Unione profili {#profile-merge}
       + [Regole di unione profili](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Overview of Profile Merge Rules](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Esempi di regole di unione profili e casi d’uso](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
-      + [Scelta della regola di unione profili corretta](build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.md)
-      + [Creazione e utilizzo di regole semplici di unione profili](build-and-manage-audiences/profile-merge/creating-and-using-simple-profile-merge-rules.md)
-      + [Utilizzo delle regole di unione profili per personalizzare in uno stato di autenticazione](build-and-manage-audiences/profile-merge/using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-      + [Utilizzo delle regole di unione dei profili per l’estensione del dispositivo e la maggiore portata](build-and-manage-audiences/profile-merge/using-profile-merge-rules-for-device-extension-and-increased-reach.md)
-      + [Panoramica dei miglioramenti delle regole di unione dei profili](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rule-enhancements.md)
-      + [Miglioramenti delle regole di unione dei profili - Prerequisiti](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
+      + [Scegliere la regola di unione profili corretta](build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.md)
+      + [Creare e utilizzare semplici regole di unione profili](build-and-manage-audiences/profile-merge/creating-and-using-simple-profile-merge-rules.md)
+      + [Utilizzare le regole di unione profili per personalizzare in uno stato autenticato](build-and-manage-audiences/profile-merge/using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+      + [Usa regole di unione profili per l’estensione del dispositivo e una maggiore portata](build-and-manage-audiences/profile-merge/using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+      + [Panoramica dei miglioramenti delle regole di unione profili](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rule-enhancements.md)
+      + [Miglioramenti delle regole di unione profili - prerequisiti](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
       + [Effetti dei miglioramenti delle regole di unione profili sulla segmentazione, l’attivazione e il reporting](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-      + [Interpretare il reporting di Audience Identity](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
-      + [Metriche tra dispositivi in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
-      + [Suggerimenti per il cliente - Ottenere il massimo dalle regole di unione dei profili](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
-+ Attivazione dati {#data-activation}
+      + [Interpretare la generazione di rapporti sull’identità dell’audience](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
+      + [Comprendere le metriche multi-dispositivo nell’Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
+      + [Suggerimenti per i clienti: ottenere il massimo dalle regole di unione profili](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
++ Attivazione dei dati {#data-activation}
    + Nozioni di base sulle destinazioni {#destinations-basics}
-      + [Audience Manager dei tipi di destinazione](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
-      + [Informazioni sulle percentuali di corrispondenza](data-activation/destinations-basics/understanding-match-rates.md)
-      + [Interfaccia di Match Rate](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
-      + [Utilizzo delle etichette di esportazione dei dati per controllare il flusso di dati](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
+      + [Comprendere i tipi di destinazione di Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
+      + [Comprendere le percentuali di corrispondenza](data-activation/destinations-basics/understanding-match-rates.md)
+      + [Comprendere l’interfaccia della velocità di corrispondenza](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [Utilizzare le etichette di esportazione dei dati per controllare il flusso di dati](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
-      + [Utilizzo di Audience Lab per scegliere un DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [Creazione di caratteristiche di conversione](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [Utilizzare Audience Lab per scegliere un DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
+      + [Creare caratteristiche di conversione](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
    + Destinazioni basate su persone {#people-based-destinations}
-      + [Video e Tutorials sulle destinazioni basate su persone](data-activation/people-based-destinations/pbd.md)
+      + [Video ed esercitazioni sulle destinazioni basate su persone](data-activation/people-based-destinations/pbd.md)
       + [Flusso di dati delle destinazioni basate su persone](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
-      + [Creazione di un’origine dati per le destinazioni basate su persone](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
-      + [Informazioni sull’acquisizione di dati PII con hash per le destinazioni basate su persone](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-      + [Acquisizione di dati PII con hash per le destinazioni basate su persone](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
-      + [Utilizzo di setCustomerIDs() per acquisire e hash PII come ID dichiarato](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
-      + [Configurazione delle regole di unione dei profili per le destinazioni basate su persone](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
-      + [Creazione di segmenti per le destinazioni basate su persone](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
+      + [Creare un’origine dati per le destinazioni basate su persone](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
+      + [Comprendere l’inserimento di dati PII con hash per le destinazioni basate su persone](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+      + [Inserire dati PII con hash per le destinazioni basate su persone](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
+      + [Utilizza setCustomerIDs() per acquisire e hash PII come ID dichiarato](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+      + [Configurare le regole di unione dei profili per le destinazioni basate su persone](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
+      + [Creare segmenti per le destinazioni basate su persone](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Creare e configurare destinazioni basate su persone](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
-      + [Informazioni e configurazione della destinazione LinkedIn basata sulle persone](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
-      + [Informazioni e configurazione della destinazione basata sulle persone del Customer Match di Google](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
+      + [Comprendere e configurare la destinazione basata su Persone di LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
+      + [Comprendere e configurare la destinazione basata su Persone corrispondente al cliente Google](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Rapporti {#reports}
-   + [Utilizzo dei rapporti generali con caratteristiche e segmenti](reports/using-general-reports-with-traits-and-segments.md)
-   + [Utilizzo dei rapporti con tendenze con caratteristiche e segmenti](reports/using-trended-reports-with-traits-and-segments.md)
+   + [Utilizzare rapporti generali con caratteristiche e segmenti](reports/using-general-reports-with-traits-and-segments.md)
+   + [Utilizzare rapporti con tendenze con caratteristiche e segmenti](reports/using-trended-reports-with-traits-and-segments.md)
    + [Comprendere i tipi di pubblico correlati con i rapporti di sovrapposizione](reports/understand-related-audiences-with-overlap-reports.md)
-   + [Utilizzo dei rapporti di Audience Optimization per comprendere le prestazioni dei file multimediali](reports/using-audience-optimization-reports-to-understand-media-performance.md)
+   + [Utilizzare i rapporti di Audience Optimization per comprendere le prestazioni dei contenuti multimediali](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Altre integrazioni {#other-integrations}
-   + Integrazione con Real-time Customer Data Platform {#integrating-with-rtcdp}
+   + Integrare con Real-time Customer Data Platform {#integrating-with-rtcdp}
       + [Inserire dati utilizzando il connettore dati Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-      + [Acquisizione di dati di prime parti in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
-      + [Informazioni sull’acquisizione di dati web in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
-      + [Schemi e XDM in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
-      + [Caratteristiche in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
-      + [Informazioni sui segnali in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
-      + [Segmenti in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
-      + [Informazioni sulle destinazioni in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
-      + [Informazioni sul controllo degli accessi in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
-      + [Governance dei dati in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
+      + [Comprendere l’acquisizione di dati di prime parti in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [Comprendere l’acquisizione di dati web in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
+      + [Comprendere schemi e XDM in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
+      + [Comprendere le caratteristiche in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
+      + [Comprendere i segnali in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
+      + [Comprendere i segmenti in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [Comprendere le destinazioni in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
+      + [Comprendere il controllo degli accessi in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
+      + [Comprendere la governance dei dati in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Integrazione con Ad Cloud {#integrating-with-ad-cloud}
       + [Integrazione Adobe Advertising Cloud e Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [Recuperare le credenziali API in Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Recuperare le credenziali API in Adobe Developer](api/retrieve-api-credentials-in-adobe-io.md)

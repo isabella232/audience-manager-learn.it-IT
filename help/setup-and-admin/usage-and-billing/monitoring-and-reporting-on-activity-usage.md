@@ -1,6 +1,6 @@
 ---
-title: Monitoraggio e reporting sull’utilizzo delle attività
-description: In questo video verrà illustrato come utilizzare Activity Usage Report (Report sull'utilizzo dell'attività), incluse le opzioni di visualizzazione e download.
+title: Monitorare e creare rapporti sull’utilizzo dell’attività
+description: In questo video, scopri come utilizzare Activity Usage Report (Report sull’utilizzo dell’attività), incluse le opzioni di visualizzazione e download.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -11,17 +11,17 @@ topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Monitoraggio e reporting sull’utilizzo delle attività
+# Monitorare e creare rapporti sull’utilizzo dell’attività
 
-In questo video verrà illustrato come utilizzare [!DNL Activity Usage Report], incluse le opzioni di visualizzazione e download.
+In questo video verrà illustrato come utilizzare il [!UICONTROL Activity Usage Report], incluse le opzioni di visualizzazione e download.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Per ulteriori informazioni, visita il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

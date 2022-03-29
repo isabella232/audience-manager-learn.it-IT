@@ -1,7 +1,7 @@
 ---
-title: Creazione di un segmento per eliminare gli annunci ai clienti
-description: Quando crei campagne di marketing, in particolare campagne di estensione/estensione della portata, puoi escludere i clienti correnti in modo da poterli vendere in modo diverso. Questo video illustra le opzioni per la creazione di segmenti al fine di escludere coloro che si sono già convertiti allo stato di cliente.
-feature: 'Segmenti '
+title: Creare un segmento per eliminare gli annunci ai clienti
+description: Scopri le opzioni disponibili quando crei un segmento per escludere i clienti che si sono già convertiti allo stato di cliente. Quando crei campagne di marketing, in particolare campagne di estensione della portata e di estensione del pubblico, ti consigliamo di escludere i clienti correnti in modo da poterli commercializzare in modo diverso.
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 5804
 role: User
 level: Intermediate
 exl-id: e142b202-612e-4be1-88e4-4fb897238b86
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Creazione di un segmento per eliminare gli annunci ai clienti
+# Creare un segmento per eliminare gli annunci ai clienti
 
 Quando crei campagne di marketing, in particolare campagne di estensione/estensione della portata, puoi escludere i clienti correnti in modo da poterli vendere in modo diverso. Questo video illustra le opzioni per la creazione di segmenti al fine di escludere coloro che si sono già convertiti allo stato di cliente.
 
