@@ -1,7 +1,7 @@
 ---
 title: Creare un’origine dati per i dati di Analytics
-description: Scopri come creare un’origine dati per i dati in diretta da una soluzione di analisi come Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
-landing-page-description: Scopri come creare un’origine dati per i dati in diretta da una soluzione di analisi come Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
+description: Scopri come creare un’origine dati per i dati provenienti in tempo reale da una soluzione di analisi quale Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
+landing-page-description: Scopri come creare un’origine dati per i dati provenienti in tempo reale da una soluzione di analisi quale Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -11,7 +11,7 @@ exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 27%
+ht-degree: 60%
 
 ---
 

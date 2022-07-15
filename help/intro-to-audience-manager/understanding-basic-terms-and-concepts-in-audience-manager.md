@@ -1,7 +1,7 @@
 ---
 title: Concetti e termini fondamentali di Audience Manager
-description: Scopri i termini e i concetti di base per iniziare a utilizzare Adobe Audience Manager con questo video di supporto, compresi segnali, caratteristiche, segmenti e altro ancora.
-landing-page-description: Scopri i termini e i concetti di base per iniziare a utilizzare Adobe Audience Manager con questo video di supporto, compresi segnali, caratteristiche, segmenti e altro ancora.
+description: Scopri i termini e i concetti fondamentali per iniziare a utilizzare Adobe Audience Manager, inclusi i segnali, i tratti, i segmenti e altro ancora, grazie a questo video di supporto.
+landing-page-description: Scopri i termini e i concetti fondamentali per iniziare a utilizzare Adobe Audience Manager, inclusi i segnali, i tratti, i segmenti e altro ancora, grazie a questo video di supporto.
 feature: Overview
 topics: null
 activity: understand
@@ -15,7 +15,7 @@ exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 31%
+ht-degree: 81%
 
 ---
 
