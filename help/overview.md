@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 9%
@@ -24,6 +24,7 @@ Benvenuto/a nel sito delle esercitazioni per Audience Manager. Utilizzo di quest
 * Esplora il contenuto per argomento e sottoargomento nella **navigazione a sinistra**
 * Se sai cosa stai cercando, usa il campo **search** nella parte superiore della pagina
 
+<div id="whats-new-section">
 ## Novità
 
 * **[Panoramica [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Benvenuto/a nel sito delle esercitazioni per Audience Manager. Utilizzo di quest
 * **[Creare e configurare destinazioni basate su persone](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *Scopri come impostare un [!DNL People-Based Destination] nell’interfaccia utente di Audience Manager*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Scatole dello staff
 
@@ -44,11 +55,11 @@ Benvenuto/a nel sito delle esercitazioni per Audience Manager. Utilizzo di quest
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="immagine miniatura per l’esercitazione "Implementazione dell’Experience Cloud nelle applicazioni Swift di Mobile iOS"" src="assets/thumb_swift.png" />
+      <img alt="immagine miniatura per l’esercitazione "Implementazione dell’Experience Cloud nelle applicazioni iOS Swift per dispositivi mobili"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implementazione dell’Experience Cloud nelle app Mobile iOS</strong>
+    <strong>Implementazione dell’Experience Cloud nelle app iOS per dispositivi mobili</strong>
     </a>
     </div>
     <p>
@@ -57,7 +68,7 @@ Benvenuto/a nel sito delle esercitazioni per Audience Manager. Utilizzo di quest
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="immagine miniatura per il tutorial "Implementazione dell’Experience Cloud nelle applicazioni Mobile Android"" src="assets/thumb_android.png" />
+      <img alt="immagine miniatura per il tutorial "Implementazione dell’Experience Cloud nelle applicazioni Android per dispositivi mobili"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
@@ -70,11 +81,11 @@ Benvenuto/a nel sito delle esercitazioni per Audience Manager. Utilizzo di quest
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="immagine miniatura per l’esercitazione "Implementazione dell’Experience Cloud nelle applicazioni Objective-C di Mobile"" src="assets/thumb_objective_c.png" />
+      <img alt="immagine miniatura per l’esercitazione "Implementazione dell’Experience Cloud nelle applicazioni Objective-C per dispositivi mobili"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementazione dell’Experience Cloud nelle app Objective-C di Mobile</strong>
+    <strong>Implementazione dell’Experience Cloud nelle app Objective-C per dispositivi mobili</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Benvenuto/a nel sito delle esercitazioni per Audience Manager. Utilizzo di quest
   </td>
 </tr>
 </table>
+</div>
