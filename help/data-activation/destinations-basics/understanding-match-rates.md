@@ -1,6 +1,6 @@
 ---
-title: Comprendere le percentuali di corrispondenza
-description: Scopri le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Inoltre, scopri le best practice e cosa può causare un tasso di corrispondenza basso.
+title: Comprendere i tassi di corrispondenza
+description: Scopri le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Scopri anche le best practice e cosa può causare un tasso di corrispondenza basso.
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Comprendere le percentuali di corrispondenza
+# Comprendere i tassi di corrispondenza
 
-Questo video ti aiuta a capire le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Verranno inoltre illustrate alcune best practice e ciò che può causare un tasso di corrispondenza basso.
+Questo video ti aiuta a comprendere le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Scoprirai anche alcune best practice e cosa può causare una bassa percentuale di corrispondenza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Per ulteriori informazioni, visita il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Per ulteriori informazioni, visitare il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).

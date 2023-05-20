@@ -1,6 +1,6 @@
 ---
-title: Configura e genera rapporti su [!UICONTROL Predictive Audiences]
-description: In questo video, segui [!UICONTROL Predictive Audiences] nell’interfaccia di Audience Manager. Visualizzare i rapporti che mostrano i risultati del modello.
+title: Configurare e generare rapporti su [!UICONTROL Predictive Audiences]
+description: Questo video illustra [!UICONTROL Predictive Audiences] nell'interfaccia Audience Manager. Visualizzare i rapporti che mostrano i risultati del modello.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Configura e genera rapporti su [!UICONTROL Predictive Audiences] in Audience Manager
+# Configurare e generare rapporti su [!UICONTROL Predictive Audiences] nell’Audience Manager
 
-In questo video verrà illustrato [!UICONTROL Predictive Audiences] nell’interfaccia di Audience Manager. Vedremo anche i rapporti che mostrano i risultati del modello.
+Questo video illustra come [!UICONTROL Predictive Audiences] nell&#39;interfaccia Audience Manager. Vengono inoltre visualizzati i rapporti che mostrano i risultati del modello.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Per ulteriori informazioni, visita il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Per ulteriori informazioni, visitare il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).

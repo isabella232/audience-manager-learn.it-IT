@@ -1,6 +1,6 @@
 ---
-title: Utilizzo delle regole di unione dei profili per l’estensione del dispositivo e la maggiore portata
-description: Utilizza le regole di unione profili per estendere la portata a tutti i dispositivi di un utente, in modo da poter commercializzare con le persone invece che con i dispositivi.
+title: Utilizzo delle regole di unione profili per l’estensione del dispositivo e una portata maggiore
+description: Utilizza le Regole di unione profili per estendere la portata a tutti i dispositivi di un utente, in modo da poter vendere a persone invece che dispositivi.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo [!UICONTROL Profile Merge Rules] per estensione del dispositivo e maggiore portata
+# Utilizzare [!UICONTROL Profile Merge Rules] per estensione del dispositivo e maggiore portata
 
-Utilizzo [!UICONTROL Profile Merge Rules] estendere la portata a tutti i dispositivi di un utente, in modo da poter vendere a persone invece che a dispositivi.
+Utilizzare [!UICONTROL Profile Merge Rules] estendere la portata a tutti i dispositivi di un utente, in modo da poter vendere alle persone anziché ai dispositivi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

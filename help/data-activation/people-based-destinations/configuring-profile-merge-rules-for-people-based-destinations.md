@@ -1,6 +1,6 @@
 ---
-title: Configurare le regole di unione dei profili per le destinazioni basate su persone
-description: In questo video, scopri come impostare una regola di unione profili da utilizzare per le destinazioni basate su persone, tra cui quando utilizzare una nuova opzione tra dispositivi.
+title: Configurare le regole di unione profili per le destinazioni basate su persone
+description: In questo video, scopri come impostare una regola di unione profili da utilizzare per le destinazioni basate su persone, e quando utilizzare una nuova opzione cross-device.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Configura [!UICONTROL Profile Merge Rules] per le destinazioni basate su persone
+# Configura [!UICONTROL Profile Merge Rules] per destinazioni basate su persone
 
-In questo video, scopri come impostare un [!UICONTROL Profile Merge Rule] da utilizzare per le destinazioni basate su persone, tra cui quando utilizzare una nuova opzione tra dispositivi.
+Questo video spiega come impostare una [!UICONTROL Profile Merge Rule] da utilizzare per le destinazioni basate su persone, incluso quando utilizzare una nuova opzione multi-dispositivo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

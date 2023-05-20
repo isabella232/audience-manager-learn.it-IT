@@ -1,6 +1,6 @@
 ---
 title: Creare e configurare destinazioni basate su persone
-description: Scopri i prerequisiti per la creazione della destinazione basata su Persone e come configurare un account integrato (collegamento al partner, ad esempio Facebook). Scopri la configurazione interna al prodotto della destinazione stessa.
+description: Scopri i prerequisiti per la creazione di una destinazione basata su Persone e come configurare un account integrato (collegamento al partner, ad esempio Facebook). Scopri la configurazione interna al prodotto della destinazione stessa.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Creare e configurare [!UICONTROL People-based Destinations]
 
-Questo video fornisce innanzitutto alcune informazioni sui prerequisiti per la creazione di una destinazione basata su Persone, quindi mostra anche come configurare un account integrato (collegamento al partner, ad esempio [!DNL Facebook]). Viene quindi descritto l’impostazione interna al prodotto della destinazione stessa.
+Questo video fornisce innanzitutto alcune informazioni sui prerequisiti per la creazione di una destinazione basata su Persone, quindi illustra anche come configurare un account integrato (collegamento al partner, ad esempio [!DNL Facebook]). Poi ti guida attraverso la configurazione interna al prodotto della destinazione stessa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

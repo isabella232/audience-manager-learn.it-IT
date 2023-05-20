@@ -1,6 +1,6 @@
 ---
-title: Utilizzare i rapporti generali con caratteristiche e segmenti
-description: In questo video, scopri come utilizzare i rapporti generali nell’Audience Manager per ottenere numeri per caratteristiche e segmenti.
+title: Utilizzare rapporti generali con caratteristiche e segmenti
+description: In questo video, scopri come utilizzare i Rapporti generali nell’Audience Manager per ottenere numeri per caratteristiche e segmenti.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -13,13 +13,13 @@ level: Beginner
 exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Utilizzare i rapporti generali con caratteristiche e segmenti
+# Utilizzare rapporti generali con caratteristiche e segmenti
 
-In questo video, scopri come utilizzare i rapporti generali in Audience Manager per ottenere numeri per caratteristiche e segmenti.
+In questo video, scopri come utilizzare i rapporti generali di Audience Manager per ottenere numeri relativi a caratteristiche e segmenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

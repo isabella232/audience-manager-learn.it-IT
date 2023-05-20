@@ -1,6 +1,6 @@
 ---
-title: Comprendere i numeri nel grafico dei segmenti
-description: Scopri i numeri che compaiono nel grafico della schermata di informazioni sui segmenti.
+title: Comprendere i numeri nel grafico Segmenti
+description: Scopri i numeri visualizzati nel grafico della schermata di informazioni sui segmenti.
 feature: Segments
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Comprendere i numeri nel grafico dei segmenti
+# Comprendere i numeri nel grafico Segmenti
 
-Scopri i numeri che compaiono nel grafico della schermata di informazioni sui segmenti.
+Scopri i numeri visualizzati nel grafico della schermata di informazioni sui segmenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Scegliere un’origine dati durante la creazione di un segmento
+title: Scegli un’origine dati durante la creazione di un segmento
 description: Scopri alcuni suggerimenti sulla scelta dell’origine dati corretta durante la creazione di un nuovo segmento in Audience Manager.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Scegliere un’origine dati durante la creazione di un segmento
+# Scegli un’origine dati durante la creazione di un segmento
 
 Scopri alcuni suggerimenti sulla scelta dell’origine dati corretta durante la creazione di un nuovo segmento in Audience Manager.
 

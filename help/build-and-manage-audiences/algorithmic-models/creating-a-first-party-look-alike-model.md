@@ -1,6 +1,6 @@
 ---
-title: Creare un modello lookalike di prima parte
-description: In questo video imparerai a creare un modello lookalike di prime parti, in modo da poter trovare più visitatori che assomigliano ai tuoi convertitori.
+title: Creare un modello lookalike di prime parti
+description: Questo video illustra come creare un modello lookalike di prime parti, per trovare altri visitatori simili ai tuoi convertitori.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ---
 
-# Crea un modello lookalike di prima parte in Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
+# Creare un modello lookalike di prime parti in Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-In questo video imparerai a creare un modello lookalike di prime parti, in modo da poter trovare più visitatori che assomigliano ai tuoi convertitori.
+Questo video illustra come creare un modello lookalike di prime parti per individuare più visitatori simili ai tuoi convertitori.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 I casi di utilizzo includono:
 
-* In qualità di editore, se il tuo inventario &quot;convertitori&quot; è esaurito, puoi estenderlo vendendo anche questo pubblico lookalike.
-* Per coloro che assomigliano ai tuoi convertitori ma non lo hanno ancora fatto, fornisci loro marketing o esperienze specifiche sul sito.
+* Come editore, se il tuo inventario dei &quot;convertitori&quot; è esaurito, puoi estenderlo vendendo anche questo pubblico simile.
+* Per coloro che assomigliano ai tuoi convertitori ma non lo hanno ancora fatto, fornisci loro esperienze o marketing specifici sul sito.
 
-Un vantaggio aggiunto qui è che questo è totalmente gratuito per voi, perché si utilizzano solo i dati che possedete. Questo, naturalmente, aiuta a massimizzare i vostri profitti.
+Un ulteriore vantaggio è che questa funzione è completamente gratuita, perché utilizzi solo dati di tua proprietà. Questo, ovviamente, aiuta a massimizzare i profitti.

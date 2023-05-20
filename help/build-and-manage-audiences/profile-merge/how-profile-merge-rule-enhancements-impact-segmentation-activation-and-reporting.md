@@ -1,6 +1,6 @@
 ---
-title: Effetti dei miglioramenti delle regole di unione profili sulla segmentazione, l’attivazione e il reporting
-description: Come i miglioramenti delle regole di unione dei profili avranno un impatto sulle popolazioni di caratteristiche totali e di segmenti nell’interfaccia utente di Audience Manager
+title: Come i miglioramenti apportati alle Regole di unione profili influiscono su segmentazione, attivazione e reporting
+description: Informazioni su come i miglioramenti delle regole di unione profili influiranno sulle popolazioni di caratteristiche e segmenti totali nell’interfaccia utente di Audience Manager
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Come [!UICONTROL Profile Merge Rule] i miglioramenti hanno un impatto su segmentazione, attivazione e reporting
+# Come [!UICONTROL Profile Merge Rule] i miglioramenti interessano segmentazione, attivazione e reporting
 
-Comprensione di come [!UICONTROL Profile Merge Rule] I miglioramenti avranno un impatto [!UICONTROL Total Trait] e [!UICONTROL Segment Populations] Audience Manager.
+Comprendere come [!UICONTROL Profile Merge Rule] I miglioramenti avranno un impatto [!UICONTROL Total Trait] e [!UICONTROL Segment Populations] in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Escludere le caratteristiche nei modelli algoritmici (lookalike)
-description: 'Scopri come e perché escludere caratteristiche specifiche (o gruppi di) da un modello algoritmico (lookalike). '
+description: Scopri come e perché escludere caratteristiche specifiche (o gruppi di caratteristiche) da un modello algoritmico (lookalike).
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Escludere le caratteristiche nei modelli algoritmici (lookalike) {#excluding-traits-in-algorithmic-look-alike-models}
 
-In questo video, scopri come e perché escludere caratteristiche specifiche (o gruppi di) da un modello algoritmico (lookalike).
+In questo video, scopri come e perché escludere caratteristiche specifiche (o gruppi di caratteristiche) da un modello algoritmico (lookalike).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 I casi di utilizzo per questa funzione includono:
 
-* Le caratteristiche molto comuni, come le caratteristiche dei visitatori del sito, sono influenzate dal modello e non saranno utili per trovare un pubblico lookalike di qualità. I clienti non devono più creare un’origine dati separata e archiviare caratteristiche comuni nella nuova origine dati, ma ora possono semplicemente escluderle.
-* Ora esiste un modo per utilizzare un sottoinsieme di caratteristiche di terze parti, come gli interessi comportamentali, invece di tutte le informazioni in un modello. Di solito terze parti inviano molti dati che potrebbero non essere utili per il cliente. In alcuni casi, non saranno autorizzati a utilizzare tutti i dati da un punto di vista legale nella modellazione. Ora è possibile escludere caratteristiche o cartelle di caratteristiche che non si desidera includere nel modello.
+* Caratteristiche estremamente comuni, come le caratteristiche dei visitatori del sito, influenzano il modello, il che non sarà utile per trovare un pubblico simile per qualità. I clienti non devono più creare un’origine dati separata e memorizzare le caratteristiche comuni nella nuova origine dati, ma possono semplicemente escluderle.
+* Ora esiste un modo per utilizzare un sottoinsieme di caratteristiche di una terza parte, come solo gli interessi comportamentali, piuttosto che tutte le informazioni in un modello. Le terze parti in genere inviano molti dati che potrebbero non essere utili per il cliente. In alcuni casi, non sarà consentito loro di utilizzare tutti i dati da un punto di vista legale nella modellazione. Ora puoi escludere caratteristiche o cartelle di caratteristiche che non desideri includere nel modello.

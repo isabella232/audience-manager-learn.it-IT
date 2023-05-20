@@ -1,6 +1,6 @@
 ---
 title: Offuscamento IP per paese
-description: Scopri l’offuscamento dell’IP per paese in Audience Manager. Questa applicazione offre funzionalità self-service nell’interfaccia utente per consentire ai clienti di attivare l’offuscamento dell’IP a livello globale o per paese. Questo video illustra la configurazione.
+description: Scopri l’offuscamento dell’IP per paese in Audience Manager. Questa applicazione fornisce funzionalità self-service nell’interfaccia utente per consentire ai clienti di attivare l’offuscamento dell’IP a livello globale o per paese. Questo video illustra la configurazione.
 feature: Data Governance & Privacy
 topics: null
 activity: use
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Offuscamento dell’IP per Audience Manager per paese {#ip-obfuscation-by-country-in-audience-manager}
+# Offuscamento IP per paese in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Manager offre funzionalità self-service nell’interfaccia utente per consentire ai clienti di attivare l’offuscamento dell’IP a livello globale o per paese. Questo video illustra la configurazione.
+Audience Manager fornisce funzionalità self-service nell’interfaccia utente per consentire ai clienti di attivare l’offuscamento dell’IP a livello globale o per paese. Questo video illustra la configurazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 

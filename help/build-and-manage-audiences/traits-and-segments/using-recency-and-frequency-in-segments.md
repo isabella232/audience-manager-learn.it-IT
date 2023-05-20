@@ -1,6 +1,6 @@
 ---
-title: Utilizza recency e frequenza nei segmenti
-description: Utilizza recency e frequenza per fornire al segmento i parametri del numero di volte in cui un visitatore deve qualificarsi per una caratteristica entro un determinato periodo di tempo. Ideale per i casi di utilizzo di affinità di contenuto e limitazione di frequenza, così come per altri.
+title: Utilizzare recency e frequenza nei segmenti
+description: Utilizza recency e frequenza per fornire al segmento i parametri del numero di volte in cui un visitatore deve qualificarsi per una caratteristica entro un determinato periodo di tempo. Si tratta di un modello ideale per i casi di utilizzo di affinità dei contenuti e di quota limite, oltre che per altri casi.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo [!UICONTROL Recency] e [!UICONTROL Frequency] in segmenti
+# Utilizzare [!UICONTROL Recency] e [!UICONTROL Frequency] nei segmenti
 
-Utilizzo [!UICONTROL Recency] e [!UICONTROL Frequency] per fornire al segmento i parametri del numero di volte in cui un visitatore deve qualificarsi per una caratteristica entro un determinato periodo di tempo. Ideale per i casi di utilizzo di affinità di contenuto e limitazione di frequenza, così come per altri.
+Utilizzare [!UICONTROL Recency] e [!UICONTROL Frequency] per fornire al segmento i parametri del numero di volte in cui un visitatore deve qualificarsi per una caratteristica entro un determinato periodo di tempo. Si tratta di un modello ideale per i casi di utilizzo di affinità dei contenuti e di quota limite, oltre che per altri casi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

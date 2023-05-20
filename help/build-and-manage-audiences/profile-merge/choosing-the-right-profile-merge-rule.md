@@ -1,6 +1,6 @@
 ---
 title: Scelta della regola di unione profili corretta
-description: In questo video, scopri tre dei casi d’uso più comuni per le regole di unione profili e come possono esserti utili per le attività di marketing.
+description: In questo video, scopri tre dei casi d’uso più comuni per le Profile Merge Rules e come queste possono esserti utili per le attività di marketing.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Scelta della destra [!UICONTROL Profile Merge Rule]
 
-In questo video, scopri tre dei casi d’uso più comuni per [!UICONTROL Profile Merge Rules]e come possono esserti utili per le tue attività di marketing.
+In questo video, scopri tre dei casi d’uso più comuni per [!UICONTROL Profile Merge Rules]e come possono essere utili per le attività di marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

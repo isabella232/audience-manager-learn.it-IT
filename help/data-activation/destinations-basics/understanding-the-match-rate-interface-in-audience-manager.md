@@ -1,6 +1,6 @@
 ---
-title: Comprendere l’interfaccia Match Rate
-description: Scopri l’interfaccia di destinazione, che mostra e spiega i numeri associati alle percentuali di corrispondenza e ai tipi di pubblico utilizzabili.
+title: Interfaccia Tasso di corrispondenza
+description: Scopri l’interfaccia di destinazione, mostrando e spiegando i numeri associati alle percentuali di corrispondenza e ai tipi di pubblico indirizzabili.
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Comprendere l’interfaccia Tasso di corrispondenza in Audience Manager
 
-Questo video illustra la procedura [!UICONTROL Destination] , che mostra e spiega i numeri associati alle percentuali di corrispondenza e ai tipi di pubblico utilizzabili.
+Questo video illustra i [!UICONTROL Destination] che mostra e spiega i numeri associati alle percentuali di corrispondenza e ai tipi di pubblico utilizzabili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 

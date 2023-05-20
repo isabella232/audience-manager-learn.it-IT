@@ -1,6 +1,6 @@
 ---
-title: Informazioni e configurazione della destinazione basata sulle persone del Customer Match di Google
-description: Questo video illustra i dettagli e il caso d’uso della destinazione basata su Persone del Customer Match di Google e include una procedura dettagliata per creare un segmento e mapparlo a una destinazione. Mostra anche il pubblico di destinazione in Google Ad Console.
+title: Informazioni e configurazione della destinazione basata su Persone del Customer Match di Google
+description: Questo video illustra i dettagli e i casi di utilizzo della destinazione basata su Persone del Customer Match di Google e include una procedura dettagliata per la creazione di un segmento e la mappatura su una destinazione. Mostra anche il pubblico che arriva in Google Ad Console.
 feature: People-based Destinations
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Informazioni e configurazione della destinazione basata sulle persone del Customer Match di Google
+# Informazioni e configurazione della destinazione basata su Persone del Customer Match di Google
 
-Questo video illustra i dettagli e il caso d’uso della destinazione basata su Persone del Customer Match di Google e include una procedura dettagliata per creare un segmento e mapparlo a una destinazione. Mostra anche il pubblico di destinazione in Google Ad Console.
+Questo video illustra i dettagli e i casi di utilizzo della destinazione basata su Persone del Customer Match di Google e include una procedura dettagliata per la creazione di un segmento e la mappatura su una destinazione. Mostra anche il pubblico che arriva in Google Ad Console.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

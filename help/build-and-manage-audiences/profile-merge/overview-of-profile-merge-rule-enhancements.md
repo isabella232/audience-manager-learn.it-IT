@@ -1,6 +1,6 @@
 ---
-title: Panoramica dei miglioramenti delle regole di unione profili
-description: Questo video spiega i miglioramenti apportati alle regole di unione profili, rilasciati a ottobre 2019.
+title: Panoramica dei miglioramenti apportati alle regole di unione profili
+description: Questo video spiega i miglioramenti alle Regole di unione profili, rilasciate a ottobre 2019.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Panoramica [!UICONTROL Profile Merge Rule] miglioramenti
+# Panoramica di [!UICONTROL Profile Merge Rule] miglioramenti
 
 Questo video spiega i miglioramenti apportati a [!UICONTROL Profile Merge Rules], rilasciato a ottobre 2019.
 

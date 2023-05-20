@@ -1,5 +1,5 @@
 ---
-title: Mappatura di segmenti di Audience Manager su destinazioni
+title: Mappare i segmenti di Audience Manager nelle destinazioni
 description: Scopri i diversi tipi di destinazioni in Audience Manager e i dettagli della mappatura dei segmenti su ciascun tipo di destinazione.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Mappatura di segmenti di Audience Manager su destinazioni
+# Mappare i segmenti di Audience Manager nelle destinazioni
 
 Scopri i diversi tipi di destinazioni in Audience Manager e i dettagli della mappatura dei segmenti su ciascun tipo di destinazione.
 

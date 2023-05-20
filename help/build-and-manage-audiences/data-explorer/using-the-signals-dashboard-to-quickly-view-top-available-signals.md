@@ -1,6 +1,6 @@
 ---
-title: Utilizza il dashboard dei segnali per visualizzare rapidamente i principali segnali disponibili
-description: Scopri come utilizzare tabelle integrate e personalizzate nella Data Explorer Dashboard dei segnali. Puoi visualizzare rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle tue esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
+title: Utilizza il dashboard Segnali per visualizzare rapidamente i primi segnali disponibili
+description: Scopri come utilizzare le tabelle integrate e personalizzate nel dashboard Segnali di Data Explorer. Puoi vedere rapidamente i dati più recenti in arrivo in Audience Manager e persino fare clic su per creare caratteristiche, in base alle esigenze. Benvenuto nel nuovo flusso di lavoro, più efficiente!
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Utilizza la [!UICONTROL Signals Dashboard] per visualizzare rapidamente i principali segnali disponibili [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
+# Utilizza il [!UICONTROL Signals Dashboard] per visualizzare rapidamente i segnali più importanti [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-Utilizzando tabelle integrate e personalizzate nella [!UICONTROL Signals Dashboard] in [!DNL Data Explorer], puoi visualizzare rapidamente i dati più recenti in Audience Manager e persino fare clic per creare le caratteristiche in base alle tue esigenze. Benvenuto nel tuo nuovo flusso di lavoro più efficiente!
+Utilizzando tabelle integrate e personalizzate nella [!UICONTROL Signals Dashboard] in [!DNL Data Explorer], puoi visualizzare rapidamente i dati più recenti in Audience Manager e persino fare clic per creare caratteristiche, in base alle esigenze. Benvenuto nel nuovo flusso di lavoro, più efficiente!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
-Quando si fa clic su [!UICONTROL Data Explorer], AKA [!UICONTROL Signals] app, ti verrà presentato un dashboard predefinito dei segnali principali e dei nuovi segnali. Oltre a queste due impostazioni predefinite, è possibile salvare le ricerche e aggiungerle al dashboard, in modo da poter visualizzare molto rapidamente i dati più importanti direttamente sulla prima pagina della funzione.
+Quando si fa clic su per [!UICONTROL Data Explorer], o [!UICONTROL Signals] app, ti verrà presentata una dashboard predefinita dei segnali principali e dei nuovi segnali. Oltre a queste due impostazioni predefinite, puoi salvare le ricerche e aggiungerle al dashboard, in modo da poter visualizzare molto rapidamente i dati più importanti direttamente sulla pagina principale della funzione.
 
-Per ulteriori informazioni [!UICONTROL Data Explorer]visita [Data Explorer: panoramica, vantaggi e casi d’uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Per ulteriori informazioni su [!UICONTROL Data Explorer], visita [Data Explorer: panoramica, vantaggi e casi d’uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

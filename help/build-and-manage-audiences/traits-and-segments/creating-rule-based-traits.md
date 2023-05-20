@@ -1,6 +1,6 @@
 ---
-title: Creare un tratto basato su regole
-description: Scopri come utilizzare il Generatore di caratteristiche nell’interfaccia utente di Audience Manager per creare una caratteristica basata su regole, che ti consente di acquisire attività in tempo reale in profili di Audience Manager.
+title: Creare una caratteristica basata su regole
+description: Scopri come utilizzare Trait Builder (Generatore di caratteristiche) nell’interfaccia utente di Audience Manager per creare un tratto basato sulle regole, che consente di acquisire attività in tempo reale nei profili Audienci Manager.
 feature: Traits
 topics: null
 activity: use
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Creare un tratto basato su regole
+# Creare una caratteristica basata su regole
 
 Scopri come utilizzare il [!UICONTROL Trait Builder] nell’interfaccia utente di Audience Manager per creare una caratteristica basata su regole, che consente di acquisire attività in tempo reale nei profili di Audience Manager.
 

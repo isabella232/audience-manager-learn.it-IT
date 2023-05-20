@@ -1,6 +1,6 @@
 ---
-title: Miglioramenti delle regole di unione profili - prerequisiti
-description: Panoramica delle procedure ottimali per il rilascio dei miglioramenti delle regole di unione dei profili.
+title: 'Miglioramenti delle regole di unione profili: prerequisiti'
+description: Panoramica su come prepararsi al meglio per il rilascio dei miglioramenti delle regole di unione profili.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] miglioramenti - prerequisiti
+# [!UICONTROL Profile Merge Rule] miglioramenti: prerequisiti
 
-Una panoramica di come prepararsi al meglio al rilascio di [!UICONTROL Profile Merge Rule] miglioramenti.
+Panoramica su come prepararsi al meglio per il rilascio di [!UICONTROL Profile Merge Rule] miglioramenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

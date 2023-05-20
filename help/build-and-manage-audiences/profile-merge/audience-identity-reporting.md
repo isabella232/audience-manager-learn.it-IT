@@ -1,6 +1,6 @@
 ---
-title: Reporting sulle identità del pubblico
-description: Scopri il reporting sull’identità del pubblico. Questo tipo di reporting in Audience Manager ti consente di creare rapporti sulla popolazione totale di una caratteristica o segmento in base alle definizioni di identità di una persona o famiglia.
+title: Generazione di rapporti sull’identità del pubblico
+description: Scopri come generare rapporti sull’identità del pubblico. Questo tipo di reporting in Audience Manager consente di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità della persona o della famiglia.
 feature: profile merge
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Reporting sulle identità del pubblico
+# Generazione di rapporti sull’identità del pubblico
 
-La generazione di rapporti di identità del pubblico consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità della persona o della famiglia. Guarda questo video per vedere come si manifesta nei report di Audience Manager.
+Il reporting di Audience Identity consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità di persona/famiglia. Guarda questo video per vedere come si manifesta nei rapporti dell’Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

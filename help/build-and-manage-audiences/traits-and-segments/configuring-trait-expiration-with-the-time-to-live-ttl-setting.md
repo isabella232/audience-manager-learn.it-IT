@@ -1,6 +1,6 @@
 ---
 title: Configurare la scadenza delle caratteristiche con [!UICONTROL Time-to-Live] (TTL)
-description: 'Scopri come trovare e impostare [!UICONTROL Time to Live] (TTL) nell''Audience Manager. Utilizza questa impostazione durante la creazione delle caratteristiche, che imposta una scadenza dell’appartenenza alla caratteristica se un utente non si riqualifica entro il periodo di tempo specificato. '
+description: Scopri come trovare e impostare [!UICONTROL Time to Live] (TTL) in Audience Manager. Utilizza questa impostazione durante la creazione delle caratteristiche, che imposta la scadenza dell’appartenenza alla caratteristica se un utente non riqualificato entro il periodo di tempo specificato.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Configurare la scadenza delle caratteristiche con [!UICONTROL Time-to-Live] (TTL)
 
-Una delle impostazioni per la creazione delle caratteristiche è la [!UICONTROL Time to Live] (TTL), che è una scadenza dell’appartenenza alla caratteristica se non ti riqualifichi entro il periodo di tempo specificato. Questo video mostra come visualizzare e impostare questa funzione.
+Una delle impostazioni per la creazione delle caratteristiche è [!UICONTROL Time to Live] (TTL), che è una scadenza dell’appartenenza alla caratteristica se la riqualificazione non avviene entro il periodo di tempo specificato. Questo video mostra come visualizzare e impostare questa funzione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

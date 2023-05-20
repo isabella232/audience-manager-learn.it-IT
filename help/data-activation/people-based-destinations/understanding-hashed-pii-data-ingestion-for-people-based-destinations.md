@@ -1,6 +1,6 @@
 ---
-title: Informazioni sull’acquisizione di dati PII con hash per le destinazioni basate su persone
-description: Questo video illustra gli elementi da considerare quando sei pronto per inserire PII in Audience Manager per le destinazioni basate su persone.
+title: Acquisizione di dati PII con hash per destinazioni basate su persone
+description: Questo video illustra gli aspetti da considerare per acquisire i dati PII in Audience Manager per le destinazioni basate su persone.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Informazioni sull’acquisizione di dati PII con hash per le destinazioni basate su persone
+# Acquisizione di dati PII con hash per destinazioni basate su persone
 
-Questo video illustra gli elementi da considerare quando sei pronto per inserire PII in Audience Manager per le destinazioni basate su persone.
+Questo video illustra gli aspetti da considerare per acquisire i dati PII in Audience Manager per le destinazioni basate su persone.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

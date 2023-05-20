@@ -1,6 +1,6 @@
 ---
-title: Formattazione e acquisizione di dati basati su file
-description: Scopri alcune delle opzioni principali in cui ottenere ulteriori informazioni quando inserisci i tuoi dati di prima parte in Audience Manager per comprendere meglio ed eseguire il targeting del tuo cliente. Scopri alcuni requisiti di formattazione per i dati.
+title: Formattare e acquisire dati basati su file
+description: Scopri alcune delle opzioni principali per ottenere ulteriori informazioni quando inserisci i tuoi Audienci Manager di prime parti per comprendere meglio e indirizzare il tuo cliente. Scopri alcuni requisiti di formattazione per i dati.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Formattazione e acquisizione di dati basati su file
+# Formattare e acquisire dati basati su file
 
-Quando inserisci i tuoi dati di prima parte in Audience Manager per capire meglio ed eseguire il targeting del tuo cliente, esistono alcuni requisiti di formattazione per i dati. Questo video illustra alcune delle opzioni principali e mostra dove ottenere ulteriori informazioni.
+Quando inserisci i tuoi dati di prima parte in Audience Manager per capire meglio e indirizzare il cliente, ci sono alcuni requisiti di formattazione per i dati. Questo video illustra alcune delle opzioni principali e mostra dove trovare ulteriori informazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
 Per un video sulla denominazione e l’importazione dei file, fai clic su [QUI](steps-for-ingesting-file-based-data.md).
 
-Per ulteriori informazioni, consulta la sezione [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Per ulteriori informazioni, vedere [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

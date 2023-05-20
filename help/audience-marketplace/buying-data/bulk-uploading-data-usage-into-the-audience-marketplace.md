@@ -1,6 +1,6 @@
 ---
-title: Utilizzo di dati di caricamento in serie in Audience Marketplace
-description: 'Quando segnali l’utilizzo di dati di terze parti e di seconda parte nell’Audience Marketplace, potresti avere abbastanza voci da rendere impossibile l’esecuzione manuale. In questo video imparerai a utilizzare lo strumento di caricamento in serie per la generazione di rapporti sull’utilizzo dei dati, in modo da poter segnalare facilmente l’utilizzo dei dati, anche se hai molti elementi da aggiornare. '
+title: Utilizzo dei dati per il caricamento in blocco in Audience Marketplace
+description: Nel segnalare l’utilizzo di dati di seconde e terze parti nell’Audience Marketplace, potresti avere un numero sufficiente di voci per non volerle fare a mano. Questo video illustra come utilizzare lo strumento di caricamento in blocco dei rapporti sull’utilizzo dei dati, in modo da poter segnalare facilmente l’utilizzo dei dati, anche in presenza di numerosi elementi da aggiornare.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo in blocco dei dati di caricamento in [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
+# Utilizzo dei dati per il caricamento in blocco in [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
-Quando segnali l’utilizzo di dati di seconde e terze parti nel [!UICONTROL Audience Marketplace], potrebbero essere presenti abbastanza voci da impedire di eseguire questa operazione a mano. In questo video, scopri come utilizzare lo strumento di caricamento in serie per la generazione di rapporti sull’utilizzo dei dati. Questo strumento ti consente di segnalare facilmente l’utilizzo dei dati, anche se hai molti elementi da aggiornare.
+Quando segnali l’utilizzo di dati di seconde e terze parti nel [!UICONTROL Audience Marketplace], è possibile che si disponga di un numero sufficiente di voci per fare in modo che non si desideri farlo manualmente. Questo video spiega come utilizzare lo strumento di caricamento in blocco dei rapporti sull’utilizzo dei dati. Questo strumento ti consente di segnalare facilmente l’utilizzo dei dati, anche se disponi di molti elementi da aggiornare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
-Oltre a questo strumento di caricamento collettivo per semplificare e risparmiare tempo nel reporting dell’utilizzo dei dati, i clienti che acquistano dati di seconde o terze parti da [!UICONTROL Audience Marketplace] beneficiare di una migliore politica di attribuzione dei costi. Questo nuovo criterio attribuisce i costi ai fornitori di dati in base al numero univoco di caratteristiche degli utenti in un segmento basato su regole, con conseguente maggiore trasparenza e fatturazione dell’utilizzo equa.
-Maggiori dettagli sull&#39;algoritmo di fatturazione sono disponibili in [Attribuzione dei costi per i feed di dati CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.
+Oltre a questo strumento per il caricamento in blocco, per semplificare la generazione di rapporti sull’utilizzo dei dati e risparmiare tempo, i clienti che acquistano dati di seconde o terze parti da [!UICONTROL Audience Marketplace] una migliore politica di attribuzione dei costi. Questa nuova policy attribuisce i costi ai fornitori di dati in base al numero di utenti univoci delle caratteristiche in un segmento basato su regole, garantendo maggiore trasparenza e una fatturazione dell’utilizzo equa.
+Ulteriori dettagli sull’algoritmo di fatturazione sono disponibili in [Attribuzione costi per feed dati CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.
 
-Per ulteriori informazioni sulla generazione di rapporti sull’utilizzo di CPM, consulta [Come segnalare l’utilizzo di CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) nella documentazione del prodotto.
+Per ulteriori informazioni sul reporting dell’utilizzo di CPM, consulta [Come segnalare l’utilizzo di CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) nella documentazione del prodotto.

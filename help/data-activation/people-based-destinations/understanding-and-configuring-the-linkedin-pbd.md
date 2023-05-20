@@ -1,6 +1,6 @@
 ---
 title: Informazioni e configurazione della destinazione LinkedIn basata sulle persone
-description: Questo video illustra i concetti e i passaggi necessari per creare una destinazione LinkedIn basata sulle persone. Si basa sui video e la documentazione aggiuntivi sulle destinazioni basate su persone.
+description: Questo video illustra i concetti e i passaggi necessari per creare una destinazione LinkedIn basata sulle persone. Si basa sui video e sulla documentazione aggiuntivi relativi alle destinazioni basate su persone.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Informazioni e configurazione della [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# Informazioni e configurazione di [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-Questo video illustra i concetti e i passaggi necessari per creare un [!UICONTROL People-Based Destination] a [!DNL LinkedIn]. Si basa sui video e la documentazione aggiuntivi sulle destinazioni basate su persone.
+Questo video illustra i concetti e i passaggi necessari per creare una [!UICONTROL People-Based Destination] a [!DNL LinkedIn]. Si basa sui video e sulla documentazione aggiuntivi relativi alle destinazioni basate su persone.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Per ulteriori informazioni, visita il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Per ulteriori informazioni, visitare il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
 Puoi anche trovare altri video sulle destinazioni basate su persone [QUI](https://adobe.ly/aamlearnpbd).

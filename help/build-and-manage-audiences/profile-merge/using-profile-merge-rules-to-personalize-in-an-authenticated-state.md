@@ -1,6 +1,6 @@
 ---
 title: Utilizzare le regole di unione profili per personalizzare in uno stato autenticato
-description: Dai ai clienti che hai effettuato l’accesso un’esperienza personalizzata utilizzando queste impostazioni delle regole di unione profili .
+description: Dai ai clienti che hai effettuato l’accesso un’esperienza personalizzata utilizzando queste impostazioni della regola di unione profili.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo [!UICONTROL Profile Merge Rules] per personalizzare in uno stato autenticato
+# Utilizzare [!UICONTROL Profile Merge Rules] per personalizzare in uno stato autenticato
 
-Offri ai clienti registrati un’esperienza personalizzata utilizzando questi [!UICONTROL Profile Merge Rule] impostazioni.
+Offri ai clienti che hanno effettuato l’accesso un’esperienza personalizzata utilizzando questi [!UICONTROL Profile Merge Rule] impostazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Comprendere i numeri nel grafico delle caratteristiche
-description: Scopri alcuni suggerimenti su come comprendere i numeri riportati per le caratteristiche nella schermata di informazioni sulle caratteristiche.
+description: Ottieni alcuni suggerimenti su come comprendere i numeri riportati per le caratteristiche nella schermata di informazioni sulle caratteristiche.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Comprendere i numeri nel grafico delle caratteristiche
 
-Scopri alcuni suggerimenti su come comprendere i numeri riportati per le caratteristiche nella schermata di informazioni sulle caratteristiche.
+Ottieni alcuni suggerimenti su come comprendere i numeri riportati per le caratteristiche nella schermata di informazioni sulle caratteristiche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

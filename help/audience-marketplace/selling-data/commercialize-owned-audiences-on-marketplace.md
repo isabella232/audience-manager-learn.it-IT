@@ -1,6 +1,6 @@
 ---
-title: Commercializzare i tipi di pubblico di proprietà su Marketplace
-description: Questo video illustra come impostare i dati come feed di dati privati o pubblici sull’Audience Marketplace, rendendoli fornitori di dati di terze parti o di seconda parte.
+title: Commercializzare i tipi di pubblico di proprietà sul Marketplace
+description: Questo video illustra come impostare i dati come feed di dati privati o pubblici sull’Audience Marketplace, diventando provider di dati di seconde o terze parti.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commercializzare i tipi di pubblico di proprietà su Marketplace
+# Commercializzare i tipi di pubblico di proprietà sul Marketplace
 
-In questo video, scopri come impostare i tuoi dati come feed di dati privati o pubblici sull’Audience Marketplace, rendendoti un provider di dati di dati di seconde o terze parti.
+In questo video, scopri come impostare i tuoi dati come feed di dati privati o pubblici sull’Audience Marketplace, diventando provider di dati di seconde o terze parti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

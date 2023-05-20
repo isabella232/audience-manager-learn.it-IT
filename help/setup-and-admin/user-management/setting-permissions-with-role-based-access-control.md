@@ -1,6 +1,6 @@
 ---
-title: Impostare le autorizzazioni con il controllo degli accessi basato su ruolo
-description: Informazioni sul controllo degli accessi basato su ruoli in Adobe Audience Manager e su come gestire le autorizzazioni a livello di gruppo. Scopri come controllare chi deve visualizzare e lavorare con le risorse, compresi caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
+title: Impostare le autorizzazioni con il controllo degli accessi basato sul ruolo
+description: Scopri il controllo degli accessi basato sui ruoli in Adobe Audience Manager e come gestire le autorizzazioni a livello di gruppo. Scopri come controllare chi può vedere e lavorare con le risorse, inclusi tratti, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungervi utenti.
 feature: Administration
 topics: null
 activity: setup
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Impostare le autorizzazioni con il controllo degli accessi basato su ruolo
+# Impostare le autorizzazioni con il controllo degli accessi basato sul ruolo
 
-Il controllo degli accessi basato sui ruoli in Adobe Audience Manager consente di gestire le autorizzazioni a livello di gruppo, controllando chi può visualizzare e lavorare con le risorse, incluse caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungere gli utenti a essi.
+Il controllo degli accessi basato sui ruoli in Adobe Audience Manager consente di gestire le autorizzazioni a livello di gruppo, controllando chi può vedere e lavorare con le risorse, inclusi caratteristiche, segmenti, destinazioni e modelli. Scopri come impostare i gruppi di autorizzazioni e aggiungervi utenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

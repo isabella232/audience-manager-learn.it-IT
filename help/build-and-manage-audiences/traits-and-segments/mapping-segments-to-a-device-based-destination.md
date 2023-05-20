@@ -1,6 +1,6 @@
 ---
-title: Mappare i segmenti su una destinazione basata su dispositivi
-description: Scopri come mappare i segmenti su una destinazione basata su dispositivo, nota anche come destinazione _server-to-server_ . Per inviare un segmento di pubblico a un DSP o a un altro partner, in Audience Manager devi mappare il segmento a una destinazione.
+title: Mappare i segmenti su una destinazione basata su dispositivo
+description: Scopri come mappare i segmenti su una destinazione basata su dispositivi, nota anche come destinazione _server-to-server_. Per inviare un segmento di pubblico a un DSP o a un altro partner, in Audience Manager devi mappare il segmento a una destinazione.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Mappare i segmenti su una destinazione basata su dispositivi
+# Mappare i segmenti su una destinazione basata su dispositivo
 
-Per inviare un segmento di pubblico a un DSP o a un altro partner, in Audience Manager devi mappare il segmento a una destinazione. Questo video illustra come mappare i segmenti su una destinazione basata su dispositivi, nota anche come _server-to-server_ destinazione.
+Per inviare un segmento di pubblico a un DSP o a un altro partner, in Audience Manager devi mappare il segmento a una destinazione. Questo video illustra come mappare i segmenti su una destinazione basata su dispositivo, nota anche come _server-to-server_ destinazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

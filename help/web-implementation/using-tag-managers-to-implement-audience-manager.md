@@ -1,5 +1,5 @@
 ---
-title: Utilizzare i tag manager per implementare Audience Manager
+title: Utilizzare i gestori di tag per implementare Audience Manager
 description: Scopri le nozioni di base sull’implementazione di Adobe Audience Manager quando utilizzi una soluzione di gestione tag.
 feature: Implementation Basics
 topics: null
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Utilizzare i tag manager per implementare Audience Manager
+# Utilizzare i gestori di tag per implementare Audience Manager
 
-In questo video, scopri le nozioni di base sull’implementazione di Adobe Audience Manager quando utilizzi una soluzione di gestione tag.
+In questo video, scopri le nozioni di base sull’implementazione di Adobe Audience Manager quando si utilizza una soluzione di gestione tag.
 
-Sono stati evidenziati i seguenti casi d’uso:
+Sono evidenziati i seguenti casi d’uso:
 
-* Implementazione tramite tag Adobe Experience Platform (già Launch) quando si utilizza anche Adobe Analytics
-* Implementazione tramite tag Adobe Experience Platform quando non utilizzi Adobe Analytics
+* Implementare tramite i tag Adobe Experience Platform (precedentemente Launch) quando si utilizza anche Adobe Analytics
+* Implementazione tramite tag Adobe Experience Platform quando non si utilizza Adobe Analytics
 * Implementazione tramite un gestore di tag non Adobe quando si utilizza Adobe Analytics
-* Implementazione tramite un gestore di tag non Adobe quando non utilizzi Adobe Analytics
+* Implementazione tramite un gestore di tag non Adobe quando non si utilizza Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

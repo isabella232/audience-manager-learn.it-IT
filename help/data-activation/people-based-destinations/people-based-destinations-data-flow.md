@@ -1,6 +1,6 @@
 ---
-title: Flusso di dati delle destinazioni basate su persone
-description: Questo video offre una panoramica delle destinazioni basate su persone e mostra il flusso di dati all’interno del processo.
+title: Flusso di dati per destinazioni basate su persone
+description: Questo video offre una panoramica delle destinazioni basate su persone e mostra il flusso di dati attraverso il processo.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Flusso di dati delle destinazioni basate su persone
+# Flusso di dati per destinazioni basate su persone
 
-Questo video offre una panoramica delle destinazioni basate su persone e mostra il flusso di dati all’interno del processo.
+Questo video offre una panoramica delle destinazioni basate su persone e mostra il flusso di dati attraverso il processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

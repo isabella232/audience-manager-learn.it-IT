@@ -1,6 +1,6 @@
 ---
-title: Definizione e creazione pratiche dei segmenti
-description: Ottieni una descrizione dettagliata del processo di definizione dei segmenti e poi suddividerli per le caratteristiche o i segnali necessari per crearli.
+title: Pratica della definizione e della creazione di segmenti
+description: Ottieni una descrizione del processo di definizione dei segmenti, quindi suddividili in base alle caratteristiche o ai segnali necessari per crearli.
 feature: Segments
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Definizione e creazione pratiche dei segmenti
+# Pratica della definizione e della creazione di segmenti
 
-Questo video illustra il processo di definizione dei segmenti e la loro suddivisione in base alle caratteristiche o ai segnali necessari per crearli.
+Questo video illustra il processo di definizione dei segmenti e della loro suddivisione in base alle caratteristiche o ai segnali necessari per crearli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

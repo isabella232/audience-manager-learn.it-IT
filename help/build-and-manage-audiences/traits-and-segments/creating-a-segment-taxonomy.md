@@ -1,6 +1,6 @@
 ---
 title: Creare una tassonomia dei segmenti
-description: Quando crei un segmento in Audience Manager, lo archivi in una struttura basata su cartelle o in una "tassonomia". Scopri alcuni suggerimenti per creare e gestire la tassonomia dei segmenti.
+description: Quando crei un segmento in Audience Manager, lo archivi in una struttura basata su cartelle o in una "tassonomia". Scopri alcuni suggerimenti per la creazione e la gestione della tassonomia dei segmenti.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Creare una tassonomia dei segmenti
 
-Quando crei un segmento in Audience Manager, lo archivi in una struttura basata su cartelle o in una &quot;tassonomia&quot;. Scopri alcuni suggerimenti per creare e gestire la tassonomia dei segmenti.
+Quando crei un segmento in Audience Manager, lo archivi in una struttura basata su cartelle o in una &quot;tassonomia&quot;. Scopri alcuni suggerimenti per la creazione e la gestione della tassonomia dei segmenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)

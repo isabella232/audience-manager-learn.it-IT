@@ -1,6 +1,6 @@
 ---
 title: Creare e utilizzare semplici regole di unione profili
-description: Scopri le regole di unione dei profili e come assegnarle ai segmenti. Scopri il profilo "Dispositivo corrente" predefinito e quando può/deve essere utilizzato.
+description: Scopri le regole di unione profili e come assegnarle ai segmenti. Scopri il profilo "Current Device" predefinito e quando può/deve essere utilizzato.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Creare e utilizzare elementi semplici [!UICONTROL Profile Merge Rules]
+# Creare e utilizzare semplici [!UICONTROL Profile Merge Rules]
 
-Scopri [!UICONTROL Profile Merge Rules] e come assegnarle ai segmenti. Informazioni sul valore predefinito [!UICONTROL Current Device] e quando può e deve essere utilizzato.
+Informazioni su [!UICONTROL Profile Merge Rules] e come assegnarli ai segmenti. Scopri le impostazioni predefinite [!UICONTROL Current Device] e quando può e deve essere utilizzato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

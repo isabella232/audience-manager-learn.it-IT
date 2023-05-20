@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla gestione in blocco (BAAAM)
-description: Scopri lo strumento di gestione in blocco Audience Manager, comunemente denominato "BAAAM". Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
+description: Scopri lo strumento di gestione di massa di Audience Manager, comunemente denominato "BAAAM". Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
 feature: BAAAM
 topics: null
 activity: use
@@ -13,13 +13,13 @@ level: Beginner
 exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
 # Introduzione alla gestione in blocco (BAAAM)
 
-Scopri lo strumento Audience Manager [!UICONTROL Bulk Management], comunemente denominato &quot;BAAAM&quot;. Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
+Scopri l’Audience Manager [!UICONTROL Bulk Management] strumento, comunemente denominato &quot;BAAAM&quot;. Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Creare e gestire le caratteristiche in blocco con BAAAM
-description: Durante la creazione, la modifica o l’eliminazione di caratteristiche, l’utilizzo dell’interfaccia utente per eseguire una per una può risultare inefficiente e richiede molto tempo. In questo video, scopri come utilizzare BAAAM, lo strumento di gestione in blocco di Audience Manager, per creare, modificare ed eliminare tratti in blocco, utilizzando un semplice foglio di calcolo Microsoft come interfaccia con l’API REST.
+description: Quando crei, modifichi o elimini delle caratteristiche, l’utilizzo dell’interfaccia utente per eseguire tale operazione singolarmente può risultare inefficiente e richiedere tempo. In questo video, scopri come utilizzare BAAAM, lo strumento di gestione in blocco di Audience Manager, per creare, modificare ed eliminare caratteristiche in blocco, utilizzando un semplice foglio di calcolo Microsoft come interfaccia con l’API REST.
 feature: Traits
 topics: null
 activity: use
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Creare e gestire le caratteristiche in blocco con BAAAM
 
-Durante la creazione, la modifica o l’eliminazione di caratteristiche, l’utilizzo dell’interfaccia utente per eseguire una per una può risultare inefficiente e richiede molto tempo. In questo video, scopri come utilizzare BAAAM, lo strumento di gestione in blocco di Audience Manager, per creare, modificare ed eliminare tratti in blocco, utilizzando un semplice foglio di calcolo Microsoft come interfaccia con l’API REST.
+Quando crei, modifichi o elimini delle caratteristiche, l’utilizzo dell’interfaccia utente per eseguire tale operazione singolarmente può risultare inefficiente e richiedere tempo. In questo video, scopri come utilizzare BAAAM, lo strumento di gestione in blocco di Audience Manager, per creare, modificare ed eliminare caratteristiche in blocco, utilizzando un semplice foglio di calcolo Microsoft come interfaccia con l’API REST.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Per ulteriori informazioni, compreso il download del foglio di lavoro BAAAM, visita il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Per ulteriori informazioni, incluso il download del foglio di lavoro BAAAM, visitare il [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
