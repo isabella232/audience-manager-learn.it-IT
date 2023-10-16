@@ -1,7 +1,7 @@
 ---
 title: Acquisizione di dati web in Real-time CDP per Audienci Manager utenti
-description: Questo video illustra agli Audienci Manager i concetti relativi all’importazione di dati da un sito web a Real-time Customer Data Platform (Real-time CDP) e include informazioni dettagliate sulla posizione del connettore dati di Audience Manager, nonché sul modo in cui i dati possono essere trasferiti dal sito web direttamente tramite l’SDK per web a Real-time CDP.
-feature: Platform Integration
+description: Questo video illustra agli Audienci Manager i concetti relativi all’importazione di dati da un sito web a Real-time Customer Data Platform (Real-time CDP) e include informazioni dettagliate sulla posizione del connettore dati di Audienci Manager, nonché sul modo in cui i dati possono essere trasferiti dal sito web direttamente tramite l’SDK per web a Real-time CDP.
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 3%
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Acquisizione di dati web in Real-time CDP per Audienci Manager utenti
 
-Questo video illustra agli Audienci Manager i concetti relativi all’importazione di dati da un sito web a Real-time Customer Data Platform (Real-time CDP) e include informazioni dettagliate sulla posizione del connettore dati di Audience Manager, nonché sul modo in cui i dati possono essere trasferiti dal sito web direttamente tramite l’SDK per web a Real-time CDP.
+Questo video illustra agli Audienci Manager i concetti relativi all’importazione di dati da un sito web a Real-time Customer Data Platform (Real-time CDP) e include informazioni dettagliate sulla posizione del connettore dati di Audienci Manager, nonché sul modo in cui i dati possono essere trasferiti dal sito web direttamente tramite l’SDK per web a Real-time CDP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
