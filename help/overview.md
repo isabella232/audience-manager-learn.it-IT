@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
+source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 16%
+source-wordcount: '223'
+ht-degree: 0%
 
 ---
 
@@ -20,25 +20,12 @@ ht-degree: 16%
 
 Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Utilizzo di questi tutorial insieme a [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ti consentirà di comprendere meglio come utilizzare Adobe Audience Manager per creare e attivare tipi di pubblico su qualsiasi canale o dispositivo utilizzando la soluzione di Adobe [!DNL data management platform].
 
+* Consulta la **&quot;Novità&quot;** per gli ultimi aggiornamenti e funzioni
 * **Prelievi personale** evidenzia alcuni dei nostri contenuti preferiti
-* Esplora il contenuto per argomento e sottoargomento nella **navigazione a sinistra**
-* Se sai cosa stai cercando, usa il campo **search** nella parte superiore della pagina
+* Esplora il contenuto per argomento e sottoargomento nella sezione **navigazione a sinistra**
+* Utilizza il **ricerca** nella parte superiore della pagina se sai cosa stai cercando
 
-<div id="whats-new-section">
-## Novità
 
-* **[Panoramica di [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
-
-   *Comprendere cosa [!UICONTROL Profile Merge Rules] sono, come funzionano e il loro valore per l’addetto marketing.*
-
-* **[[!UICONTROL Profile Merge Rule]Esempi e casi d’uso](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
-
-   *In questo video vedrai alcuni esempi di [!UICONTROL Profile Merge Rules] e il loro significato, nonché i casi d&#39;uso che [!UICONTROL Profile Merge Rules] risolvi per.*
-
-* **[Creare e configurare destinazioni basate su persone](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
-
-   *Scopri come impostare una [!DNL People-Based Destination] nell’interfaccia utente di Audience Manager*
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -55,7 +42,7 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Utilizzo di que
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=it">
-      <img alt="miniatura per l’esercitazione "Implementare Adobe Experience Cloud con Web SDK"" src="assets/implement-web-sdk.jpg" />
+      <img alt="miniatura per l’esercitazione &quot;Implementare Adobe Experience Cloud con Web SDK&quot;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=it">
@@ -76,20 +63,20 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Utilizzo di que
     </a>
     </div>
     <p>
-    <em>Questo video analizza le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.</em>
+    <em>Questo video analizza le differenze nei segmenti e nella creazione dei segmenti tra Audienci Manager e Real-time CDP.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-      <img alt="immagine di anteprima per l’esercitazione "Configure and report on Predictive Audiences in Audience Manager" (Configurare e creare rapporti sulle audience predittive in un )" src="assets/33630.jpg" />
+      <img alt="immagine di anteprima per l’esercitazione &quot;Configure and report on Predictive Audiences in Audienci Manager&quot; (Configurare e creare rapporti sulle audience predittive in un )" src="assets/33630.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Configurazione dei Predictive Audiences e generazione di rapporti relativi in Audience Manager</strong>
+    <strong>Configurazione dei Predictive Audiences e generazione di rapporti relativi in Audienci Manager</strong>
     </a>
     </div>
     <p>
-    <em>Questo video illustra come configurare Predictive Audiences nell’interfaccia di Audience Manager.</em>
+    <em>Questo video illustra come configurare Predictive Audiences nell’interfaccia di Audienci Manager.</em>
     <p>
   </td>
 </tr>
